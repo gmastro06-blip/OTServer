@@ -1,6 +1,7 @@
 # Ignore build artifacts, large legacy dumps and local env
 /build-msvc/
 /TFS 1.2_10_95_rl_map_cam/
+/artifacts/
 /vcpkg_installed/
 /.venv/
 /.vscode/
