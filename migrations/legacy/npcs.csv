@@ -1,0 +1,10 @@
+name,script,walkinterval,floorchange,file
+Alice,bless.lua,2000,0,data\npc\Alice.xml
+Banker,bank.lua,2000,0,data\npc\Banker.xml
+Captain,ship.lua,2000,0,data\npc\Captain.xml
+Deruno,default.lua,2000,0,data\npc\Deruno.xml
+Eryn,runes.lua,2000,0,data\npc\Eryn.xml
+Riona,default.lua,2000,0,data\npc\Riona.xml
+The Forgotten King,promotion.lua,2000,0,data\npc\The Forgotten King.xml
+The Oracle,The Oracle.lua,0,,data\npc\The Oracle.xml
+Tyoric,default.lua,2000,0,data\npc\Tyoric.xml

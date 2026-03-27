@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+    <!--
+	// Raid System by 5mok3
+	// DO NOT CHANGE INTERVAL UNLESS YOU ARE SURE WHAT YOU ARE DOING!!
+	-->
+    <announce delay="1000" type="event" message="Beware of The Welter!" />
+<singlespawn delay="20000" name="the Welter" x="33026" y="32669" z="5" />
+</raid>

@@ -1,0 +1,662 @@
+centerx,centery,centerz,entity_type,name,x,y,z,spawntime
+149,574,2,monster,Dragon Lord,0,0,2,60
+176,583,2,monster,Dragon Lord,-1,-1,2,60
+186,572,3,monster,Dragon Lord,2,0,3,60
+175,584,3,monster,Dragon,2,-1,3,60
+175,584,3,monster,Dragon,-1,1,3,60
+152,596,3,monster,Dragon Lord,1,-1,3,60
+102,67,4,monster,Wasp,-1,-1,4,60
+102,67,4,monster,Wasp,1,1,4,60
+102,67,4,monster,Wasp,-1,2,4,60
+101,114,4,npc,The Oracle,0,0,4,60
+316,420,4,monster,Elf Scout,0,-3,4,60
+316,420,4,monster,Elf Arcanist,2,-3,4,60
+316,420,4,monster,Elf Arcanist,-1,-1,4,60
+316,420,4,monster,Elf Arcanist,4,0,4,60
+303,427,4,monster,Elf Arcanist,-1,0,4,60
+303,427,4,monster,Elf Arcanist,2,1,4,60
+209,488,4,monster,Black Knight,0,0,4,240
+177,574,4,monster,Dragon,1,1,4,60
+147,575,4,monster,Dragon,0,-1,4,60
+147,575,4,monster,Dragon,3,0,4,60
+176,584,4,monster,Dragon,-1,0,4,60
+176,584,4,monster,Dragon,-1,1,4,60
+143,595,4,monster,Dragon,-1,0,4,60
+165,596,4,monster,Dragon,-4,-2,4,60
+165,596,4,monster,Dragon,1,1,4,60
+102,67,5,monster,Wasp,-1,-1,5,60
+102,67,5,monster,Wasp,0,2,5,60
+305,349,5,monster,Orc Leader,1,-3,5,60
+305,349,5,monster,Orc Spearman,-2,1,5,60
+273,355,5,monster,Orc Warlord,0,0,5,240
+301,358,5,monster,Orc Shaman,-2,0,5,60
+301,358,5,monster,Orc Leader,1,1,5,60
+110,364,5,npc,Deruno,0,0,5,60
+308,414,5,monster,Elf Arcanist,0,-1,5,60
+242,419,5,monster,Dragon,-1,1,5,60
+319,420,5,monster,Elf Scout,-1,-2,5,60
+319,420,5,monster,Elf Arcanist,1,1,5,60
+279,425,5,monster,Elf Scout,2,-1,5,60
+279,425,5,monster,Elf,0,1,5,60
+304,427,5,monster,Elf Arcanist,-2,-2,5,60
+304,427,5,monster,Elf Scout,0,-1,5,60
+304,427,5,monster,Elf Scout,-2,1,5,60
+324,429,5,monster,Elf Scout,-1,1,5,60
+280,449,5,monster,Elf,0,0,5,60
+280,449,5,monster,Elf,2,1,5,60
+304,450,5,monster,Elf Scout,-1,-2,5,60
+215,473,5,monster,Cyclops,0,1,5,60
+194,476,5,monster,Cyclops,0,-2,5,60
+194,476,5,monster,Cyclops,-3,2,5,60
+143,477,5,monster,Giant Spider,-1,1,5,60
+174,481,5,monster,Cyclops,-2,0,5,60
+174,481,5,monster,Cyclops,2,2,5,60
+221,483,5,monster,Cyclops,-1,0,5,60
+125,495,5,npc,Alice,1,0,5,60
+275,511,5,monster,Valkyrie,5,-1,5,60
+275,511,5,monster,Witch,-5,0,5,60
+275,511,5,monster,Valkyrie,1,2,5,60
+225,546,5,npc,Eryn,0,0,5,60
+176,566,5,monster,Dragon,0,-1,5,60
+149,576,5,monster,Dragon,1,0,5,60
+166,576,5,monster,Dragon,-1,-1,5,60
+182,586,5,monster,Dragon,0,1,5,60
+280,592,5,monster,Wild Warrior,-1,-1,5,60
+280,592,5,monster,Wild Warrior,-3,1,5,60
+280,592,5,monster,Hunter,0,2,5,60
+170,595,5,monster,Dragon,-1,-1,5,60
+102,67,6,monster,Wasp,-1,-1,6,60
+102,67,6,monster,Wasp,2,1,6,60
+84,89,6,monster,Rabbit,0,-1,6,60
+116,93,6,monster,Orc,1,-2,6,60
+116,93,6,monster,Orc,-2,2,6,60
+129,95,6,monster,Orc Spearman,-1,0,6,60
+98,105,6,monster,Rabbit,-1,0,6,60
+73,113,6,monster,Pig,0,-2,6,240
+73,113,6,monster,Pig,-2,0,6,240
+73,113,6,monster,Pig,0,3,6,240
+313,328,6,monster,Orc Berserker,-1,-3,6,60
+313,328,6,monster,Orc Warrior,2,-2,6,60
+313,328,6,monster,Orc Spearman,-4,1,6,60
+313,328,6,monster,Orc Shaman,1,4,6,60
+298,333,6,monster,Orc Spearman,4,-2,6,60
+298,333,6,monster,Orc Berserker,-1,-1,6,60
+298,333,6,monster,Orc Warrior,0,5,6,60
+279,337,6,monster,Orc Shaman,2,-1,6,60
+279,337,6,monster,Orc Warrior,-2,3,6,60
+274,345,6,monster,Orc Spearman,0,0,6,60
+261,355,6,monster,Orc Spearman,-1,-3,6,60
+261,355,6,monster,Orc Warrior,-4,0,6,60
+261,355,6,monster,Orc,3,1,6,60
+273,355,6,monster,Orc Spearman,1,-3,6,60
+273,355,6,monster,Orc Warrior,-4,0,6,60
+273,355,6,monster,Orc Berserker,1,0,6,60
+273,355,6,monster,Orc Spearman,0,4,6,60
+312,358,6,monster,Orc Berserker,-2,-3,6,60
+312,358,6,monster,Orc Spearman,-5,0,6,60
+312,358,6,monster,Orc Shaman,2,4,6,60
+300,359,6,monster,Orc Spearman,0,-5,6,60
+300,359,6,monster,Orc Leader,1,-1,6,60
+300,359,6,monster,Orc Shaman,-4,3,6,60
+277,364,6,monster,Orc,-4,2,6,60
+277,364,6,monster,Orc Berserker,0,2,6,60
+278,372,6,monster,Orc Spearman,-2,-2,6,60
+278,372,6,monster,Orc Warrior,4,-1,6,60
+278,372,6,monster,Orc Warrior,-2,2,6,60
+278,372,6,monster,Orc Berserker,3,2,6,60
+313,372,6,monster,Orc Berserker,1,-4,6,60
+313,372,6,monster,Orc Berserker,-3,0,6,60
+313,372,6,monster,Orc,2,1,6,60
+290,375,6,monster,Orc Shaman,0,-5,6,60
+290,375,6,monster,Orc Berserker,-3,-4,6,60
+290,375,6,monster,Orc Berserker,4,0,6,60
+290,375,6,monster,Orc Warrior,-1,1,6,60
+137,400,6,npc,Eryn,0,0,6,60
+308,415,6,monster,Elf Scout,-1,-1,6,60
+308,415,6,monster,Elf Scout,0,1,6,60
+319,417,6,monster,Elf Arcanist,-1,0,6,60
+319,417,6,monster,Elf Arcanist,-4,3,6,60
+280,427,6,monster,Elf,1,-1,6,60
+305,427,6,monster,Elf,-2,-1,6,60
+305,427,6,monster,Elf Scout,-1,1,6,60
+305,427,6,monster,Elf Scout,-3,2,6,60
+326,429,6,monster,Elf Scout,-1,-1,6,60
+326,429,6,monster,Elf Arcanist,1,0,6,60
+318,434,6,monster,Elf Scout,1,0,6,60
+304,448,6,monster,Elf,-1,0,6,60
+290,450,6,monster,Elf,1,-1,6,60
+209,459,6,monster,Wild Warrior,1,-1,6,60
+209,459,6,monster,Wild Warrior,-2,2,6,60
+240,461,6,monster,Rabbit,-3,-2,6,60
+240,461,6,monster,Rabbit,0,1,6,60
+187,469,6,monster,Cyclops,-2,2,6,60
+229,472,6,monster,Cyclops,-1,-2,6,60
+229,472,6,monster,Cyclops,-1,2,6,60
+205,481,6,monster,Cyclops,-2,-1,6,60
+205,481,6,monster,Cyclops,1,2,6,60
+218,501,6,monster,Cyclops,-1,-1,6,60
+218,501,6,monster,Cyclops,3,2,6,60
+203,507,6,monster,Cyclops,-1,-2,6,60
+203,507,6,monster,Cyclops,1,1,6,60
+275,511,6,monster,Valkyrie,1,1,6,60
+275,511,6,monster,Amazon,3,5,6,60
+287,513,6,monster,Amazon,-1,2,6,60
+251,519,6,monster,Amazon,3,-2,6,60
+251,519,6,monster,Valkyrie,0,-1,6,60
+264,529,6,monster,Valkyrie,2,-1,6,60
+264,529,6,monster,Valkyrie,-4,2,6,60
+286,535,6,monster,Valkyrie,2,1,6,60
+185,556,6,monster,Dragon,2,-1,6,60
+184,566,6,monster,Dragon,0,0,6,60
+229,573,6,npc,Riona,0,0,6,60
+195,575,6,monster,Dragon,-1,0,6,60
+155,579,6,monster,Dragon,0,1,6,60
+267,580,6,monster,Wild Warrior,-2,-2,6,60
+267,580,6,monster,Wild Warrior,0,1,6,60
+267,580,6,monster,Wild Warrior,-3,4,6,60
+140,582,6,monster,Dragon,-2,-1,6,60
+168,585,6,monster,Dragon,-2,-3,6,60
+267,592,6,monster,Tarantula,-2,0,6,60
+103,68,7,monster,Wasp,-1,0,7,60
+94,73,7,monster,Snake,-2,-1,7,60
+94,73,7,monster,Wolf,3,3,7,60
+85,74,7,monster,Snake,-3,-4,7,60
+85,74,7,monster,Snake,2,1,7,60
+66,79,7,monster,Spider,0,-1,7,60
+78,79,7,monster,Snake,-1,-1,7,60
+78,79,7,monster,Spider,-3,1,7,60
+78,79,7,monster,Snake,4,1,7,60
+110,80,7,monster,Wolf,-2,-2,7,60
+110,80,7,monster,Wolf,1,2,7,60
+101,87,7,monster,Wolf,-1,-2,7,60
+101,87,7,monster,Wolf,2,1,7,60
+117,90,7,monster,Bear,0,0,7,60
+125,99,7,monster,Orc,3,-4,7,60
+125,99,7,monster,Orc,-2,-1,7,60
+63,101,7,monster,Troll,4,-1,7,60
+63,101,7,monster,Troll,-4,0,7,60
+86,122,7,npc,Riona,0,0,7,60
+97,130,7,monster,Rabbit,0,2,7,180
+390,202,7,npc,Deruno,0,0,7,60
+474,203,7,npc,Eryn,0,0,7,60
+435,234,7,npc,Riona,0,0,7,60
+122,318,7,npc,The Forgotten King,0,0,7,60
+278,336,7,monster,Orc,-1,-2,7,60
+278,336,7,monster,Orc Spearman,5,0,7,60
+278,336,7,monster,Orc Warrior,-1,4,7,60
+292,341,7,monster,Orc Berserker,-1,-4,7,60
+292,341,7,monster,Orc Shaman,2,0,7,60
+292,341,7,monster,Orc Warrior,2,4,7,60
+278,344,7,monster,Smuggler,-1,0,7,60
+267,347,7,monster,Orc Rider,1,-2,7,60
+267,347,7,monster,Orc Warrior,3,1,7,60
+267,347,7,monster,Orc Spearman,-2,3,7,60
+280,349,7,monster,Orc Shaman,1,-4,7,60
+280,349,7,monster,Orc Spearman,4,-2,7,60
+280,349,7,monster,Orc Spearman,-5,0,7,60
+280,349,7,monster,Orc Berserker,-3,2,7,60
+318,350,7,monster,Orc Berserker,-2,-2,7,60
+318,350,7,monster,Orc Leader,1,0,7,60
+245,356,7,monster,Orc Warrior,-2,0,7,60
+245,356,7,monster,Orc,2,2,7,60
+245,356,7,monster,Orc Spearman,-1,4,7,60
+245,356,7,monster,Orc,3,4,7,60
+281,357,7,monster,Cyclops,0,0,7,60
+290,358,7,monster,Orc Spearman,-3,-3,7,60
+290,358,7,monster,Orc Shaman,1,-2,7,60
+290,358,7,monster,Orc Berserker,-4,2,7,60
+290,358,7,monster,Orc Warrior,2,3,7,60
+314,359,7,monster,Orc Spearman,0,0,7,60
+230,360,7,monster,Orc Spearman,-3,-3,7,60
+230,360,7,monster,Orc Spearman,0,-3,7,60
+230,360,7,monster,Orc,3,-2,7,60
+230,360,7,monster,Orc Warrior,-1,1,7,60
+258,362,7,monster,Orc Warrior,-1,0,7,60
+274,362,7,monster,Orc Warrior,-1,-3,7,60
+274,362,7,monster,Orc Spearman,1,1,7,60
+309,363,7,monster,Orc Leader,0,0,7,160
+288,368,7,monster,Orc Spearman,-2,-4,7,60
+288,368,7,monster,Orc Warrior,4,-2,7,60
+288,368,7,monster,Orc Shaman,0,2,7,60
+299,368,7,monster,Orc,0,-5,7,60
+299,368,7,monster,Orc Berserker,3,1,7,60
+299,368,7,monster,Orc Spearman,-3,2,7,60
+299,368,7,monster,Orc Shaman,3,4,7,60
+205,371,7,monster,Rabbit,-3,-2,7,60
+205,371,7,monster,Deer,3,3,7,60
+136,372,7,npc,Banker,0,0,7,60
+314,372,7,monster,Orc Berserker,0,-4,7,60
+314,372,7,monster,Orc Berserker,-4,0,7,60
+257,375,7,monster,Orc Warrior,-2,-3,7,60
+257,375,7,monster,Orc,-3,0,7,60
+257,375,7,monster,Orc Spearman,3,2,7,60
+119,376,7,monster,Dog,0,1,7,420
+126,376,7,npc,Riona,0,0,7,60
+283,376,7,monster,Orc Warrior,-2,-2,7,60
+283,376,7,monster,Orc Berserker,4,0,7,60
+251,384,7,monster,Orc Spearman,1,-1,7,60
+251,384,7,monster,Orc,0,1,7,60
+270,393,7,monster,Pig,3,-3,7,60
+270,393,7,monster,Pig,-3,0,7,60
+270,393,7,monster,Rabbit,1,3,7,60
+102,394,7,monster,Pig,0,-1,7,60
+188,399,7,monster,Rabbit,-3,-3,7,60
+188,399,7,monster,Rabbit,1,-1,7,60
+233,410,7,monster,Wolf,-3,-4,7,60
+233,410,7,monster,Wolf,4,0,7,60
+233,410,7,monster,Rabbit,-3,4,7,60
+266,411,7,monster,Rabbit,0,1,7,60
+311,414,7,monster,Deer,3,-3,7,60
+311,414,7,monster,Elf Scout,-2,0,7,60
+311,414,7,monster,Elf Scout,4,4,7,60
+297,415,7,monster,Elf Scout,0,-1,7,60
+292,419,7,monster,Elf,-1,0,7,60
+114,420,7,monster,Deer,3,0,7,60
+316,421,7,monster,Elf Scout,0,0,7,60
+316,421,7,monster,Elf,-2,5,7,60
+253,426,7,monster,Deer,-2,-4,7,60
+253,426,7,monster,Deer,3,3,7,60
+312,426,7,monster,Rabbit,-2,-4,7,60
+312,426,7,monster,Elf,-2,3,7,60
+202,428,7,monster,Rabbit,2,-2,7,60
+202,428,7,monster,Rabbit,-2,2,7,60
+158,429,7,monster,Deer,-1,-1,7,60
+297,430,7,monster,Rabbit,2,-2,7,60
+297,430,7,monster,Elf,-1,1,7,60
+326,430,7,monster,Elf Arcanist,-1,1,7,60
+444,432,7,monster,Thornback Tortoise,1,-1,7,60
+444,432,7,monster,Tortoise,-1,3,7,60
+316,433,7,monster,Elf Scout,0,0,7,60
+129,435,7,monster,Wolf,-3,-3,7,60
+129,435,7,monster,Wolf,4,2,7,60
+288,435,7,monster,Elf,0,1,7,60
+448,439,7,monster,Crab,3,-1,7,60
+448,439,7,monster,Crab,0,3,7,60
+120,441,7,monster,Deer,0,0,7,60
+459,442,7,monster,Blood Crab,-3,-2,7,60
+459,442,7,monster,Blood Crab,-1,3,7,60
+249,444,7,monster,Wolf,-1,-1,7,60
+249,444,7,monster,Wolf,-3,2,7,60
+108,445,7,monster,Skeleton,-2,-4,7,60
+108,445,7,monster,Ghoul,1,4,7,140
+182,446,7,monster,Deer,-1,-1,7,60
+319,446,7,monster,Elf Arcanist,-1,0,7,60
+281,448,7,monster,Elf,-1,-1,7,60
+304,449,7,monster,Elf Scout,-1,-1,7,60
+304,449,7,monster,Elf Scout,1,1,7,60
+426,450,7,monster,Thornback Tortoise,-1,-2,7,60
+426,450,7,monster,Tortoise,2,1,7,60
+210,451,7,monster,Wild Warrior,-2,-1,7,60
+210,451,7,monster,Wild Warrior,1,1,7,60
+408,451,7,monster,Thornback Tortoise,0,-1,7,60
+408,451,7,monster,Tortoise,0,2,7,60
+389,455,7,monster,Crab,1,-1,7,60
+389,455,7,monster,Blood Crab,-2,2,7,60
+287,457,7,monster,Rabbit,2,-1,7,60
+287,457,7,monster,Rabbit,-1,2,7,60
+397,464,7,monster,Tortoise,2,-1,7,60
+397,464,7,monster,Thornback Tortoise,-1,3,7,60
+444,464,7,monster,Thornback Tortoise,0,2,7,60
+444,464,7,monster,Tortoise,-2,4,7,60
+412,466,7,monster,Thornback Tortoise,2,1,7,60
+412,466,7,monster,Thornback Tortoise,-1,4,7,60
+434,471,7,monster,Crab,-2,-1,7,60
+434,471,7,monster,Tortoise,2,3,7,60
+91,472,7,monster,Cyclops,-3,-2,7,60
+91,472,7,monster,Cyclops,1,1,7,60
+262,472,7,monster,Wolf,-3,-2,7,60
+262,472,7,monster,Wolf,2,2,7,60
+276,475,7,monster,Hunter,-2,-2,7,60
+276,475,7,monster,Hunter,2,1,7,60
+276,475,7,monster,Hunter,-1,3,7,60
+290,477,7,monster,Deer,-3,-2,7,60
+290,477,7,monster,Deer,0,1,7,60
+344,477,7,monster,Tortoise,-2,-1,7,60
+344,477,7,monster,Tortoise,1,3,7,60
+328,483,7,monster,Crab,-1,0,7,60
+430,483,7,monster,Tortoise,-2,1,7,60
+443,483,7,monster,Tortoise,1,-2,7,60
+443,483,7,monster,Tortoise,-2,0,7,60
+412,484,7,monster,Crab,0,-2,7,60
+305,486,7,monster,Rabbit,-1,-2,7,60
+305,486,7,monster,Rabbit,2,2,7,60
+339,486,7,monster,Crab,-3,-1,7,60
+339,486,7,monster,Crab,-4,3,7,60
+119,487,7,monster,Wolf,1,-1,7,60
+137,488,7,monster,Wolf,1,-2,7,60
+137,488,7,monster,Wolf,-2,0,7,60
+170,495,7,monster,Deer,-2,-3,7,60
+170,495,7,monster,Deer,0,-1,7,60
+267,497,7,monster,Rabbit,-1,-2,7,60
+267,497,7,monster,Rabbit,2,1,7,60
+289,500,7,monster,Wolf,2,-1,7,60
+289,500,7,monster,Wolf,-2,2,7,60
+238,501,7,monster,Wolf,-2,-2,7,60
+238,501,7,monster,Wolf,3,1,7,60
+238,501,7,monster,Wolf,-1,2,7,60
+143,507,7,monster,Wasp,-1,-3,7,60
+143,507,7,monster,Wasp,1,0,7,60
+143,507,7,monster,Wasp,-1,2,7,60
+306,507,7,monster,Rabbit,3,-2,7,60
+306,507,7,monster,Deer,-1,0,7,60
+121,510,7,monster,Wolf,-2,-3,7,60
+121,510,7,monster,Wolf,3,-1,7,60
+121,510,7,monster,Wolf,-1,1,7,60
+285,512,7,monster,Amazon,-2,0,7,60
+271,513,7,monster,Amazon,-1,-2,7,60
+271,513,7,monster,Amazon,2,0,7,60
+164,514,7,monster,Giant Spider,-2,2,7,60
+254,517,7,monster,Amazon,-1,-1,7,60
+254,517,7,monster,Amazon,-2,2,7,60
+223,520,7,monster,Deer,-3,-2,7,60
+223,520,7,monster,Deer,1,-1,7,60
+328,520,7,monster,Wolf,-2,-2,7,60
+328,520,7,monster,War Wolf,0,1,7,60
+152,521,7,monster,Giant Spider,-2,-2,7,60
+152,521,7,monster,Giant Spider,2,1,7,60
+309,522,7,monster,Deer,-2,-2,7,60
+309,522,7,monster,Rabbit,2,1,7,60
+121,523,7,monster,Orc Spearman,-2,0,7,60
+121,523,7,monster,Orc Spearman,2,2,7,60
+121,523,7,monster,Orc Berserker,0,5,7,60
+177,526,7,monster,Bear,1,0,7,60
+279,526,7,monster,Amazon,-2,-1,7,60
+279,526,7,monster,Amazon,1,2,7,60
+265,527,7,monster,Amazon,-1,1,7,60
+163,529,7,monster,Giant Spider,-1,1,7,60
+142,530,7,monster,Giant Spider,-1,0,7,60
+122,532,7,monster,Orc Shaman,-4,-1,7,60
+122,532,7,monster,Orc Berserker,2,0,7,60
+122,532,7,monster,Orc Leader,6,1,7,60
+122,532,7,monster,Orc Berserker,-3,2,7,60
+122,532,7,monster,Orc Leader,-5,5,7,60
+287,533,7,monster,Amazon,2,1,7,60
+287,533,7,monster,Amazon,0,4,7,60
+158,535,7,monster,Scorpion,2,1,7,60
+158,535,7,monster,Scorpion,0,2,7,60
+209,541,7,monster,Spider,5,0,7,60
+209,541,7,monster,Snake,0,2,7,60
+231,543,7,monster,Snake,0,-5,7,60
+231,543,7,monster,Poison Spider,1,-1,7,60
+127,547,7,monster,Deer,1,-2,7,60
+127,547,7,monster,Deer,-2,1,7,60
+197,547,7,monster,Snake,0,-5,7,60
+197,547,7,monster,Spider,-4,-3,7,60
+197,547,7,monster,Snake,-2,1,7,60
+219,548,7,monster,Snake,-2,-3,7,60
+219,548,7,monster,Poison Spider,2,3,7,60
+278,548,7,monster,Wolf,-1,-2,7,60
+278,548,7,monster,Wolf,2,1,7,60
+155,550,7,monster,Dragon,5,-4,7,60
+155,550,7,monster,Dragon,-4,4,7,60
+182,551,7,monster,Red Butterfly,0,0,7,60
+259,557,7,monster,Snake,-3,-4,7,60
+259,557,7,monster,Poison Spider,-2,1,7,60
+259,557,7,monster,Spider,4,3,7,60
+207,559,7,monster,Snake,0,-5,7,60
+207,559,7,monster,Snake,1,2,7,60
+184,561,7,monster,Dragon,1,-1,7,60
+233,561,7,monster,Snake,1,0,7,60
+202,573,7,monster,Snake,2,-4,7,60
+202,573,7,monster,Spider,-1,3,7,60
+187,574,7,monster,Dragon,-2,-1,7,60
+249,580,7,monster,Spider,-1,-1,7,60
+171,583,7,monster,Dragon,2,-3,7,60
+171,583,7,monster,Dragon Lord,-1,3,7,60
+150,584,7,monster,Dragon Lord,1,0,7,60
+219,584,7,monster,Snake,-3,-2,7,60
+219,584,7,monster,Snake,5,0,7,60
+238,589,7,monster,Poison Spider,-3,-3,7,60
+238,589,7,monster,Snake,1,3,7,60
+196,590,7,monster,Dragon,1,1,7,60
+147,592,7,monster,Dragon Lord,0,1,7,60
+260,597,7,monster,Poison Spider,-4,-3,7,60
+260,597,7,monster,Tarantula,-3,-1,7,60
+260,597,7,monster,Tarantula,1,2,7,60
+76,70,8,monster,Skeleton,-1,-1,8,60
+99,75,8,monster,Wolf,-1,-2,8,60
+99,75,8,monster,Wolf,-2,3,8,60
+82,77,8,monster,Skeleton,0,-1,8,60
+82,77,8,monster,Skeleton,-3,5,8,60
+66,80,8,monster,Spider,1,1,8,60
+107,83,8,monster,Wolf,3,-2,8,60
+107,83,8,monster,Wolf,-2,0,8,60
+78,84,8,monster,Skeleton,-5,0,8,60
+40,93,8,monster,Troll,-1,-2,8,60
+40,93,8,monster,Troll,3,0,8,60
+40,93,8,monster,Troll,-1,2,8,60
+50,97,8,monster,Troll,-1,1,8,60
+62,99,8,monster,Troll,1,-2,8,60
+45,108,8,monster,Troll,-1,1,8,60
+45,108,8,monster,Troll,1,2,8,60
+45,108,8,monster,Troll,-2,4,8,60
+93,110,8,monster,Rat,4,-3,8,60
+93,110,8,monster,Rat,-2,1,8,60
+84,118,8,monster,Rat,-4,-3,8,60
+84,118,8,monster,Rat,0,1,8,60
+106,120,8,monster,Rat,5,0,8,60
+106,120,8,monster,Rat,1,3,8,60
+96,121,8,monster,Rat,0,1,8,60
+79,123,8,monster,Cave Rat,-2,0,8,60
+79,123,8,monster,Rat,4,5,8,60
+114,128,8,monster,Cave Rat,0,1,8,60
+83,129,8,monster,Cave Rat,-1,4,8,60
+102,130,8,monster,Rat,0,-2,8,60
+102,130,8,monster,Rat,5,5,8,60
+90,132,8,monster,Rat,1,1,8,60
+108,136,8,monster,Rat,1,1,8,60
+95,142,8,monster,Rat,2,-1,8,60
+95,142,8,monster,Rat,0,1,8,60
+211,374,8,monster,Rotworm,4,-3,8,60
+211,374,8,monster,Rotworm,-2,2,8,60
+229,375,8,monster,Rotworm,-2,-1,8,60
+128,381,8,monster,Troll,0,0,8,60
+227,383,8,monster,Rotworm,1,1,8,60
+215,385,8,monster,Rotworm,1,0,8,60
+215,385,8,monster,Rotworm,-1,3,8,60
+188,386,8,npc,Tyoric,0,0,8,60
+226,392,8,monster,Rotworm,0,1,8,60
+175,396,8,monster,Troll,0,-1,8,60
+175,396,8,monster,Troll,1,-1,8,60
+175,396,8,monster,Troll,0,0,8,60
+142,407,8,monster,Troll,0,0,8,60
+459,434,8,monster,Blood Crab,-1,-1,8,60
+417,439,8,monster,Thornback Tortoise,-1,-1,8,60
+417,439,8,monster,Tortoise,3,3,8,60
+442,439,8,monster,Thornback Tortoise,-1,0,8,60
+442,439,8,monster,Tortoise,0,4,8,60
+457,444,8,monster,Smuggler,-1,-1,8,60
+457,444,8,monster,Smuggler,1,1,8,60
+106,447,8,monster,Skeleton,1,-1,8,60
+205,451,8,monster,Wild Warrior,4,-1,8,60
+205,451,8,monster,Wild Warrior,-1,0,8,60
+205,451,8,monster,Wild Warrior,-2,2,8,60
+205,451,8,monster,Wild Warrior,0,5,8,60
+101,453,8,monster,Skeleton,-1,-4,8,60
+101,453,8,monster,Skeleton,3,1,8,60
+101,453,8,monster,Skeleton,1,2,8,60
+209,457,8,monster,Wild Warrior,0,1,8,60
+209,457,8,monster,Wild Warrior,2,2,8,60
+103,463,8,monster,Ghoul,-2,-2,8,60
+103,463,8,monster,Ghoul,4,-1,8,60
+103,463,8,monster,Ghoul,-4,1,8,60
+421,489,8,monster,Tortoise,2,-3,8,60
+421,489,8,monster,Tortoise,-2,2,8,60
+436,492,8,monster,Tortoise,1,-3,8,60
+436,492,8,monster,Tortoise,-2,-1,8,60
+439,501,8,monster,Tortoise,-1,0,8,60
+129,516,8,monster,Carrion Worm,-2,-1,8,60
+129,516,8,monster,Carrion Worm,2,1,8,60
+218,537,8,monster,Swamp Troll,0,-1,8,60
+218,537,8,monster,Swamp Troll,-3,3,8,60
+201,543,8,monster,Swamp Troll,-4,-2,8,60
+201,543,8,monster,Swamp Troll,-1,1,8,60
+201,543,8,monster,Rat,5,1,8,60
+201,543,8,monster,Swamp Troll,-4,2,8,60
+178,555,8,monster,Bat,-1,-2,8,60
+212,564,8,monster,Swamp Troll,2,-5,8,60
+212,564,8,monster,Swamp Troll,-1,-1,8,60
+212,564,8,monster,Rat,-5,0,8,60
+212,564,8,monster,Swamp Troll,2,2,8,60
+212,564,8,monster,Swamp Troll,-3,3,8,60
+244,570,8,monster,Bat,0,-2,8,60
+76,68,9,monster,Spider,-1,-1,9,60
+76,68,9,monster,Bug,4,-1,9,60
+84,76,9,monster,Bug,-2,-4,9,60
+84,76,9,monster,Spider,1,1,9,60
+73,78,9,monster,Spider,-2,-3,9,60
+73,78,9,monster,Spider,-1,2,9,60
+110,81,9,monster,Minotaur,1,0,9,60
+110,81,9,monster,Minotaur,-4,3,9,60
+107,87,9,monster,Minotaur,1,2,9,60
+38,89,9,monster,Troll,1,1,9,60
+118,95,9,monster,Orc,4,1,9,60
+118,95,9,monster,Orc,-4,2,9,60
+118,95,9,monster,Orc,-3,3,9,60
+44,96,9,monster,Troll,1,-3,9,60
+44,96,9,monster,Troll,-1,0,9,60
+44,96,9,monster,Troll,3,0,9,60
+60,100,9,monster,Troll,2,2,9,60
+60,100,9,monster,Troll,0,4,9,60
+51,103,9,monster,Troll,0,1,9,60
+226,377,9,monster,Rotworm,-1,-1,9,60
+134,378,9,monster,Troll,0,0,9,60
+217,384,9,monster,Rotworm,-2,-1,9,60
+217,384,9,monster,Rotworm,0,2,9,60
+126,385,9,monster,Troll,0,0,9,60
+236,387,9,monster,Rotworm,2,-2,9,60
+236,387,9,monster,Rotworm,0,2,9,60
+137,395,9,monster,Troll,0,0,9,60
+165,396,9,monster,Troll,0,0,9,60
+154,400,9,monster,Troll,0,0,9,60
+452,435,9,monster,Blood Crab,-1,2,9,60
+452,435,9,monster,Blood Crab,3,5,9,60
+413,437,9,monster,Tortoise,1,0,9,60
+434,438,9,monster,Thornback Tortoise,0,1,9,60
+434,438,9,monster,Thornback Tortoise,3,5,9,60
+423,439,9,monster,Thornback Tortoise,1,2,9,60
+457,444,9,monster,Blood Crab,4,3,9,60
+118,450,9,monster,Skeleton,1,-4,9,60
+118,450,9,monster,Skeleton,-1,-3,9,60
+109,452,9,monster,Skeleton,1,1,9,60
+125,461,9,monster,Ghoul,1,1,9,60
+108,467,9,monster,Ghoul,2,0,9,60
+118,472,9,monster,Ghoul,2,1,9,60
+117,484,9,monster,Ghoul,-2,-2,9,60
+117,484,9,monster,Ghoul,2,0,9,60
+117,484,9,monster,Ghoul,-1,3,9,60
+418,500,9,monster,Tortoise,-2,-1,9,60
+429,501,9,monster,Tortoise,0,-1,9,60
+429,501,9,monster,Tortoise,-2,1,9,60
+204,534,9,monster,Swamp Troll,-1,-1,9,60
+204,534,9,monster,Swamp Troll,-4,2,9,60
+204,534,9,monster,Swamp Troll,1,2,9,60
+190,546,9,monster,Rat,-5,-3,9,60
+190,546,9,monster,Swamp Troll,0,-2,9,60
+190,546,9,monster,Swamp Troll,-3,0,9,60
+211,548,9,monster,Rat,4,-4,9,60
+211,548,9,monster,Swamp Troll,-4,-3,9,60
+211,548,9,monster,Swamp Troll,0,0,9,60
+205,563,9,monster,Swamp Troll,-2,-4,9,60
+205,563,9,monster,Swamp Troll,1,-1,9,60
+205,563,9,monster,Swamp Troll,-3,0,9,60
+205,563,9,monster,Rat,4,1,9,60
+228,596,9,monster,Bat,-1,-1,9,60
+80,81,10,monster,Spider,-3,-2,10,60
+80,81,10,monster,Bug,1,-2,10,60
+80,81,10,monster,Spider,0,3,10,60
+73,85,10,monster,Poison Spider,-2,0,10,60
+73,85,10,monster,Snake,0,1,10,60
+112,88,10,monster,Orc Spearman,0,-1,10,60
+112,88,10,monster,Orc,1,5,10,60
+106,94,10,monster,Minotaur,-1,-4,10,60
+106,94,10,monster,Orc Spearman,1,1,10,60
+68,95,10,monster,Poison Spider,-4,-2,10,60
+68,95,10,monster,Bug,2,0,10,60
+116,96,10,monster,Orc,2,1,10,60
+50,98,10,monster,Swamp Troll,0,-3,10,60
+50,98,10,monster,Troll,2,-1,10,60
+50,98,10,monster,Troll,-2,1,10,60
+43,104,10,monster,Troll,-1,-1,10,60
+126,389,10,monster,Troll,0,0,10,60
+126,389,10,monster,Troll,1,0,10,60
+124,438,10,monster,Ghoul,3,-2,10,60
+124,438,10,monster,Ghoul,-2,-1,10,60
+124,438,10,monster,Ghoul,1,2,10,60
+132,442,10,monster,Demon Skeleton,3,-2,10,60
+117,476,10,monster,Skeleton,-2,-4,10,60
+117,476,10,monster,Ghoul,1,0,10,60
+117,476,10,monster,Ghoul,-2,2,10,60
+115,490,10,monster,Ghoul,-1,1,10,60
+183,538,10,monster,Swamp Troll,1,-2,10,60
+183,538,10,monster,Rat,5,-2,10,60
+183,538,10,monster,Swamp Troll,-2,-1,10,60
+183,538,10,monster,Swamp Troll,3,3,10,60
+183,538,10,monster,Rat,1,5,10,60
+191,542,10,monster,Swamp Troll,1,-4,10,60
+191,542,10,monster,Swamp Troll,-1,1,10,60
+246,577,10,monster,Bat,0,0,10,60
+212,585,10,monster,Scorpion,4,-5,10,60
+212,585,10,monster,Scorpion,-1,-1,10,60
+212,585,10,monster,Scorpion,2,5,10,60
+243,590,10,monster,Bonelord,0,0,10,60
+220,602,10,monster,Scorpion,-2,-1,10,60
+220,602,10,monster,Scorpion,0,1,10,60
+66,90,11,monster,Poison Spider,-1,0,11,60
+70,95,11,monster,Poison Spider,1,2,11,60
+61,102,11,monster,Poison Spider,2,-1,11,60
+61,102,11,monster,Poison Spider,3,0,11,60
+57,108,11,monster,Poison Spider,-1,0,11,60
+154,426,11,monster,Necromancer,3,-3,11,60
+154,426,11,monster,Necromancer,-1,-1,11,60
+144,435,11,monster,Demon Skeleton,-2,-2,11,60
+165,444,11,monster,Demon Skeleton,-2,-2,11,60
+165,444,11,monster,Demon Skeleton,1,-1,11,60
+148,447,11,monster,Ghoul,-1,-1,11,60
+148,447,11,monster,Ghoul,3,2,11,60
+112,479,11,monster,Mummy,2,0,11,60
+112,479,11,monster,Mummy,-1,2,11,60
+60,107,12,monster,Rotworm,-1,-2,12,60
+115,483,12,monster,Ghost,-2,-3,12,60
+115,483,12,monster,Ghost,2,-1,12,60
+115,483,12,monster,Mummy,-3,1,12,60
+198,595,12,monster,Slime,0,1,12,60
+207,604,12,monster,Slime,1,0,12,60
+193,612,12,monster,Slime,-2,0,12,60
+204,619,12,monster,Slime,2,0,12,60
+204,619,12,monster,Slime,-1,3,12,60
+222,307,13,monster,Dragon Lord,-1,-2,13,60
+222,307,13,monster,Dragon,1,3,13,60
+236,311,13,monster,Dragon Lord,-3,-2,13,60
+247,311,13,monster,Dragon Lord,0,1,13,60
+225,316,13,monster,Dragon Lord,-2,1,13,60
+239,322,13,monster,Dragon,0,-3,13,60
+131,455,13,monster,Demon Skeleton,3,-3,13,60
+131,455,13,monster,Demon Skeleton,-2,1,13,60
+131,455,13,monster,Mummy,4,2,13,60
+139,465,13,monster,Demon Skeleton,-2,-4,13,60
+139,465,13,monster,Necromancer,0,-1,13,60
+154,466,13,monster,Necromancer,3,-6,13,60
+154,466,13,monster,Necromancer,6,-3,13,60
+154,466,13,monster,Necromancer,-5,-2,13,60
+154,466,13,monster,Necromancer,1,2,13,60
+114,482,13,monster,Ghost,0,-2,13,60
+127,484,13,monster,Vampire,0,-2,13,60
+127,484,13,monster,Ghost,-3,2,13,60
+153,488,13,monster,Vampire,0,-2,13,60
+153,488,13,monster,Vampire,-1,1,13,60
+153,488,13,monster,Vampire,3,1,13,60
+136,489,13,monster,Mummy,3,-4,13,60
+136,489,13,monster,Mummy,-3,1,13,60
+136,500,13,monster,Ghost,1,-2,13,60
+136,500,13,monster,Vampire,-3,1,13,60
+136,500,13,monster,Vampire,0,3,13,60
+189,653,13,monster,Demon,-2,-3,13,60
+189,653,13,monster,Demon,2,-2,13,60
+189,653,13,monster,Demon,-2,-1,13,60
+189,653,13,monster,Demon,2,0,13,60
+189,653,13,monster,Demon,0,1,13,60
+189,653,13,monster,Demon,0,2,13,60
+258,680,14,monster,Demon,0,-1,14,60
+271,665,15,monster,Demon,-2,-2,15,60
+271,665,15,monster,Demon,2,1,15,60

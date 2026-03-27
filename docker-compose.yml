@@ -1,0 +1,52 @@
+services:
+  db:
+    image: mariadb:10.11
+    container_name: tfs-db-compose
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass123
+      MYSQL_DATABASE: forgottenserver
+      MYSQL_USER: forgottenserver
+      MYSQL_PASSWORD: tfs_pass
+    volumes:
+      - tfs-db-data:/var/lib/mysql
+      # If present, the legacy dump and import wrapper will be executed on first init
+      - ./migrations/legacy/servidor_from_TFS.sql:/srv/servidor_from_TFS.sql:ro
+      # Project schema: ensure the target schema is created before migration
+      - ./schema.sql:/docker-entrypoint-initdb.d/000_schema.sql:ro
+      - ./migrations/legacy/init_db_import.sh:/docker-entrypoint-initdb.d/init_db_import.sh:ro
+      # mount whole migrations folder so auxiliary SQL files are available
+      - ./migrations/legacy:/docker-entrypoint-initdb.d/migrations:ro
+    networks:
+      - tfs-net
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -u root -prootpass123 || exit 1"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  tfs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: forgottenserver:local
+    container_name: forgottenserver_compose
+    depends_on:
+      - db
+    ports:
+      - "7171:7171"
+      - "7172:7172"
+    volumes:
+      - ./config.lua:/srv/config.lua:ro
+      - ./data:/srv/data:rw
+    networks:
+      - tfs-net
+    restart: unless-stopped
+
+volumes:
+  tfs-db-data:
+
+networks:
+  tfs-net:
+    driver: bridge

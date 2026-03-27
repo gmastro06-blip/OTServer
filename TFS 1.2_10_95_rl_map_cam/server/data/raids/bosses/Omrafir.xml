@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+    <!--
+	// Raid System by 5mok3
+	// DO NOT CHANGE INTERVAL UNLESS YOU ARE SURE WHAT YOU ARE DOING!!
+	-->
+
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="OMRAFIR apareceu na prisao de roshamuul" />
+  <announce delay="50000" type="Event" message="Corram para derrotar o poderoso Omrafir" />
+  <announce delay="60000" type="Event" message="Omrafir foi Sumonado!!" />
+  <!--Single Spawns-->
+  <singlespawn delay="60000" name="Omrafir" x="33588" y="32380" z="12" />
+</raid>

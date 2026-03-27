@@ -1,0 +1,3428 @@
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/cacheinfo.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/../otpch.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/definitions.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/algorithm
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/yvals_core.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/sal.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/concurrencysal.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vadefs.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xkeycheck.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_heap_algorithms.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xutility
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/yvals.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/crtdbg.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime_new_debug.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime_new.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/crtdefs.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/use_ansi.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_iter_core.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/utility
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/initializer_list
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cstddef
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/stddef.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xtr1common
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/type_traits
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cstdint
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/stdint.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cstring
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/string.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_memory.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_memcpy_s.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/errno.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime_string.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wstring.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/compare
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/concepts
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cstdlib
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/math.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_math.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_math_defines.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/stdlib.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_malloc.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_search.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wstdlib.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/limits.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/climits
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cwchar
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cstdio
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/stdio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wstdio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_stdio_config.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/wchar.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wconio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wctype.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wdirect.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_share.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wprocess.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_wtime.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/sys/stat.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/sys/types.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/intrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/intrin0.inl.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/setjmp.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/immintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/wmmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/nmmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/smmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/tmmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/pmmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/emmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xmmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/mmintrin.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/malloc.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/zmmintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ammintrin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_minmax.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xmemory
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/limits
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cfloat
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/float.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/intrin0.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/new
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/exception
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime_exception.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/eh.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_terminate.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xatomic.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/tuple
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/optional
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xsmf_control.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/array
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/atomic
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xatomic_wait.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xthreads.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_threads_core.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xtimec.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ctime
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/time.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/bitset
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_bit_utils.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/iosfwd
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xstring
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_sanitizer_annotate_container.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_string_view.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xpolymorphic_allocator.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/std_containers_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/user.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/detail/select_compiler_config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/compiler/visualc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/pragma_message.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/helper_macros.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/detail/select_stdlib_config.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/version
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/stdlib/dinkumware.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/detail/select_platform_config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/platform/win32.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/detail/suffix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/detail/cxx_composite.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/std/string_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/yes_no_type.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/string
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cctype
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/ctype.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/sequence_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bool_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/adl_barrier.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/adl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/msvc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/intel.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/gcc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/detail/workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/integral_c_tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/static_constant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/std/list_traits.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/list
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/trim.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/range_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/mutable_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/extract_optional_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/cat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/config/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/has_xxx.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/na_spec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/lambda_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/void_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/na.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/na_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/ctps.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/lambda.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/ttp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/int.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/int_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/nttp_decl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/nttp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/integral_wrapper.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/static_cast.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/lambda_arity_param.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/template_arity_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/arity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/dtp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessor/params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/preprocessor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/comma_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/punctuation/comma_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/iif.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/logical/bool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/punctuation/comma.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repeat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/repeat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/debug/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/tuple/eat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/inc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/arithmetic/inc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessor/enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/limits/arity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/logical/and.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/logical/bitand.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/identity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/identity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/arithmetic/add.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/arithmetic/dec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/while.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/list/fold_left.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/while.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/list/detail/fold_left.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/expr_iif.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/list/adt.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/is_binary.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/check.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/logical/compl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/list/fold_right.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/while.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/list/detail/fold_right.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/list/reverse.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/detail/msvc/while.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/tuple/elem.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/expand.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/overload.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/variadic/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/check_empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/variadic/has_opt.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/tuple/rem.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/tuple/detail/is_single_return.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/is_1.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/is_empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/is_empty_variadic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/punctuation/is_begin_parens.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/punctuation/detail/is_begin_parens.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/facilities/detail/is_empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/tuple/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/variadic/elem.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/arithmetic/sub.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/eti.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/overload_resolution.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/type_wrapper.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/yes_no.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/arrays.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/has_xxx.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/msvc_typename.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/array/elem.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/array/data.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/array/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/enum_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/enum_trailing_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/iterator_traits.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/iterator
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/msvc_has_iterator_workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/const_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_const.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_const.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/integral_constant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/eval_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/value_wknd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/integral.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/lambda_support.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/implementation_help.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/common.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/sfinae.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/yes_no_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_void.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_same.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/as_literal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/iterator_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/iterator_range_core.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/iterator_facade.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/memory
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/typeinfo
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime_typeinfo.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/utility.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/integral.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/version.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_fold.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_defer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_rename.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/interoperable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/type_traits/disjunction.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/iterator_categories.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/arg_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/facade_iterator_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/type_traits/conjunction.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/config_def.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/config_undef.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/type_traits/negation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/not.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/nested_type_wknd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/and.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/use_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/compiler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/stringize.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/and.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/or.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/or.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/identity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_abstract.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/intrinsics.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/version.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_base_and_derived.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_cv.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_convertible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_complete.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/declval.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_rvalue_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_lvalue_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_rvalue_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_function.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/is_function_cxx_11.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/static_assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/functions.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/size_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/difference_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/has_range_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/enable_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/concepts.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept_check.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/msvc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/backward_compatibility.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/has_constraints.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/conditional.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/conversion_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/usage.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/concept_def.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/for_each_i.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/for.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/detail/msvc/for.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/seq.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/elem.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/detail/is_empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/concept_undef.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/iterator_concepts.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/limits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/concept_def.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/concept/detail/concept_undef.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/value_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/misc_concept.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/gpu.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/pp_counter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_integral.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/make_unsigned.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_signed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_unsigned.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_volatile.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_const.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_volatile.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/has_member_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_class.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_member_function_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/base_from_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/enum_binary_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/repeat_from_to.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/enable_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/binary.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/deduce_d.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/cat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/fold_left.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/seq/transform.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/arithmetic/mod.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/arithmetic/detail/div_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/comparison/less_equal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/logical/not.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/identity_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/function_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/addressof.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/checked_delete.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/noncopyable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/distance.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/distance.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/rbegin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/reverse_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/reverse_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/iterator_adaptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/use_default.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/enable_if_convertible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/eval_if_default.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/type_traits/type_identity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/config_def.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/detail/config_undef.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/rend.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/algorithm/equal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/safe_bool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/next_prior.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_plus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/make_void.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_plus_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_arithmetic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_floating_point.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/stdfloat
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_minus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_minus_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/is_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/advance.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/iterator_range_io.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ostream
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_ostream.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ios
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xlocnum
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cmath
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/streambuf
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xiosbase
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/share.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/system_error
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_system_error_abi.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cerrno
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/stdexcept
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xcall_once.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xerrc.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xlocale
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xfacet
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xlocinfo
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_xlocinfo_types.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/clocale
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/locale.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_filebuf.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_print.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xfilesystem_abi.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/format
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_format_ucd_tables.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_formatter.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_ranges_tuple_formatter.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/bit
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/charconv
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xbit_ops.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xcharconv.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xcharconv_ryu.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xcharconv_ryu_tables.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xcharconv_tables.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/locale
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xlocbuf
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xlocmes
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xlocmon
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xloctime
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/range/detail/str_types.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/trim.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/classification.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/classification.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/functional
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/unordered_map
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xhash
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vector
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xnode_handle.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/predicate_facade.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/case_conv.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iterator/transform_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/empty_value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/case_conv.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/predicate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/compare.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/find.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/finder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/constants.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/finder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/predicate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/split.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/iter_find.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/concept.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/find_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/find_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/function.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/function/function_template.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/function/function_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/function/function_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/function_equal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/typeinfo.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/demangle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/no_exceptions_support.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mem_fn.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/bind/mem_fn.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/get_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/no_tr1/memory.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/throw_exception.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/exception/exception.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert/source_location.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/source_location
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/util.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/join.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/sequence.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/logical.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/replace.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/find_format.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/deque
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/find_format.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/find_format_store.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/replace_storage.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/find_format_all.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/formatter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/detail/formatter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/algorithm/string/erase.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/any_completion_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/invocable_archetype.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/equality_comparable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/execute_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/is_applicable_property.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/query_static_constexpr_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/static_query.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/any_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/atomic_count.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/cstddef.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/executor_function.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/handler_alloc_helpers.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/memory.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/throw_exception.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/aligned_alloc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/aligned_alloc_msvc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/is_alignment.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/recycling_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/thread_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/call_stack.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/noncopyable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/tss_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/keyword_tss_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/thread_context.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/thread_info_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/multiple_exceptions.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/multiple_exceptions.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/associated_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/associator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/functional.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/non_const_lvalue.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/scoped_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/bad_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/impl/bad_executor.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/blocking.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/prefer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/prefer_free.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/prefer_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/require_free.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/require_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/static_require.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/query.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/query_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/query_free.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/require.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/blocking_adaptation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/event.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_event.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/socket_types.hpp
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winsock2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/winapifamily.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/winpackagefamily.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/windows.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/sdkddkver.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/excpt.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/stdarg.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/windef.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/minwindef.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/specstrings.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/specstrings_strict.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/specstrings_undef.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/driverspecs.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/sdv_driverspecs.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winnt.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/kernelspecs.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/basetsd.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/guiddef.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack4.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack4.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack4.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack2.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack8.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack1.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/pshpack1.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/apiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/ktmtypes.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winbase.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/apisetcconv.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/minwinbase.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/apiquery2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/processenv.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/fileapifromapp.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/fileapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/debugapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/utilapiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/handleapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/errhandlingapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/fibersapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/namedpipeapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/profileapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/heapapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/ioapiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/synchapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/interlockedapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/processthreadsapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/sysinfoapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/memoryapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/enclaveapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/threadpoollegacyapiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/threadpoolapiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/jobapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/jobapi2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/wow64apiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/libloaderapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/securitybaseapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/namespaceapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/systemtopologyapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/processtopologyapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/securityappcontainer.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/realtimeapiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/winerror.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/timezoneapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/wingdi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack1.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack4.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack4.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winuser.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/pshpack2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/tvout.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winnls.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/datetimeapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/stringapiset.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winnls.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/wincon.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/wincontypes.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/consoleapi.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/consoleapi2.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/consoleapi3.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winver.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/verrsrc.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winreg.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/reason.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winnetwk.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/wnnc.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/stralign.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/winsvc.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/mcx.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/imm.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/ime_cmodes.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/ws2def.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/inaddr.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/qos.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/ws2tcpip.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/ws2ipdef.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/in6addr.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//um/mswsock.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/mswsockdef.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/old_win_sdk_compat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_event.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/throw_error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/error_code.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/error_code.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/is_error_code_enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/error_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/error_condition.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/generic_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/generic_category_message.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/enable_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/is_same.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/errc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/is_error_condition_enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/cerrno.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/append_int.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/snprintf.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/system_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/system_category_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/system_category_message.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/api_config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/system_category_message_win32.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/error_handling.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/basic_types.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/version_number.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/android.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/detail/test.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/cloudabi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/mingw.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/mingw32.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/mingw64.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_uwp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/detail/os_detected.h
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/ntverp.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/ntverp.ver
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/detail/platform_detected.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_desktop.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_uwp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_phone.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_uwp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_server.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_uwp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_store.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_uwp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_system.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_uwp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_runtime.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_phone.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/windows_store.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/ios.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/ios.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/footer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/get_last_error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/footer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/footer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/character_code_conversion.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/footer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/local_memory.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/footer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/system_category_condition_win32.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/error_codes.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/winapi/detail/footer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/interop_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/std_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/error_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/error_category_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/std_category_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/mutex.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/shared_mutex
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/condition_variable
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_chrono.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ratio
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/mutex
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/thread
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/process.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/corecrt_startup.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/math.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/vcruntime_startup.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/stop_token
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/error_condition.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/errc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/generic_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/system_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/detail/throws.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/throw_error.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/system_error.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cerrno.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/error.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/mutex.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_mutex.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/scoped_lock.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_mutex.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/context.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/any
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/context_as.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/mapping.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/occupancy.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/outstanding_work.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/prefer_only.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution/relationship.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/any_completion_executor.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/any_completion_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/any_io_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/execution_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/execution_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/handler_type_requirements.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/async_result.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/default_completion_token.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/deferred.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/utility.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/deferred.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/service_registry.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/service_registry.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/service_registry.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/execution_context.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/any_io_executor.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/associated_cancellation_slot.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/cancellation_signal.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/cancellation_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/cancellation_signal.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/associated_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/is_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/is_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/system_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/system_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/executor_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/fenced_block.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/std_fenced_block.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/scheduler_operation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/handler_tracking.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/handler_tracking.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/op_queue.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/global.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_global.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/static_mutex.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_static_mutex.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_static_mutex.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/system_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/scheduler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/conditionally_enabled_event.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/conditionally_enabled_mutex.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/null_event.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/null_event.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/scheduler_task.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/thread.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_thread.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_thread.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/scheduler.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/config.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/concurrency_hint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/limits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/scheduler_thread_info.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/signal_blocker.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/null_signal_blocker.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/reactor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/null_reactor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/thread_group.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/system_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/system_context.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/associated_immediate_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/cancellation_state.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/recycling_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/append.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/append.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/handler_cont_helpers.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/handler_continuation_hook.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/initiation_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/as_tuple.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/as_tuple.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/awaitable.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/coroutine
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/awaitable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/disposition.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/post.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/initiate_post.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/work_dispatcher.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/bind_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/executor_work_guard.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/this_coro.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_datagram_socket.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_socket.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/io_object_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/io_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/chrono.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/chrono
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_tzdb.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/forward_list
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/iomanip
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/istream
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/sstream
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/wrapped_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/initiate_dispatch.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/winsock_init.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/winsock_init.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_io_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timer_queue_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/operation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_operation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timer_queue_set.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/timer_queue_set.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/wait_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_thread_info.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_iocp_io_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/completion_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/handler_work.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_iocp_io_context.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/io_context.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/io_context.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/socket_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/io_control.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/socket_option.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/buffer_sequence_adapter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/array_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/string_view.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/string_view
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/is_contiguous_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/is_buffer_sequence.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/registered_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/buffer_sequence_adapter.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/reactor_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/select_reactor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/fd_set_adapter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/posix_fd_set_adapter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_fd_set_adapter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/reactor_op_queue.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/hash_map.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/select_interrupter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/socket_select_interrupter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/socket_select_interrupter.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/socket_holder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/socket_ops.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/socket_ops.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/select_reactor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/select_reactor.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_null_buffers_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_accept_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_service_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_connect_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_send_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_recv_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_recvmsg_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_wait_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_iocp_socket_service_base.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_socket_recvfrom_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_deadline_timer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_file.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/file_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_file_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_handle_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_handle_read_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_handle_write_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_iocp_handle_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_iocp_file_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_io_object.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_random_access_file.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_raw_socket.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_readable_pipe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_seq_packet_socket.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_serial_port.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/serial_port_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/serial_port_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/serial_port_base.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_serial_port_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_iocp_serial_port_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_signal_set.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/signal_set_service.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/signal.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/signal_set_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/signal_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/signal_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/signal_set_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_socket_acceptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_socket_iostream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_socket_streambuf.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_stream_socket.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/steady_timer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_waitable_timer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/chrono_time_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/deadline_timer_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timer_queue.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/date_time_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timer_queue_ptime.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timer_scheduler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timer_scheduler_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/wait_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/wait_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_stream_file.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_streambuf.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_streambuf_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/basic_writable_pipe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/bind_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/bind_cancellation_slot.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/bind_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/uses_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/bind_immediate_executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffer_registration.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffered_read_stream_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffered_read_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/buffer_resize_guard.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/buffered_stream_storage.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/buffered_read_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffered_stream_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffered_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffered_write_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffered_write_stream_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/completion_condition.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/write.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/write.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/base_from_cancellation_state.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/base_from_completion_cond.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/consuming_buffers.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/dependent_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/buffered_write_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/buffers_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/cancel_after.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/cancel_after.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/timed_cancel_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/completion_payload.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/completion_message.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/variant
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/completion_payload_handler.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/cancel_at.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/cancel_at.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/co_composed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/composed_work.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/co_spawn.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/co_spawn.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/dispatch.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/use_awaitable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/use_awaitable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/compose.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/composed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/connect.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/connect.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/connect_pipe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/connect_pipe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/connect_pipe.ipp
+C:/Program Files (x86)/Windows Kits/10//include/10.0.26100.0//shared/bcrypt.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/consign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/consign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/coroutine.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/deadline_timer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/defer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/initiate_defer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detached.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/detached.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/executor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/executor.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/basic_endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/detail/endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/detail/impl/endpoint.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/datagram_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/raw_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/seq_packet_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/generic/stream_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/high_resolution_timer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/immediate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/io_context_strand.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/strand_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/strand_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/strand_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address_v4.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/address_v4.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/address_v4.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address_v6.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/address_v6.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/address_v6.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/bad_address_cast.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/address.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/address.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address_v4_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address_v4_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address_v6_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/address_v6_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/network_v4.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/network_v4.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/network_v4.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/network_v6.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/network_v6.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/network_v6.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/basic_endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/detail/endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/detail/impl/endpoint.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/basic_endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/basic_resolver.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/basic_resolver_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/basic_resolver_entry.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/basic_resolver_query.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/resolver_query_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/resolver_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/basic_resolver_results.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/resolver_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/resolve_endpoint_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/resolve_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/resolve_query_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/resolver_service_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/resolver_service_base.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/host_name.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/impl/host_name.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/icmp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/multicast.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/detail/socket_option.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/tcp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/udp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/unicast.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/ip/v6_only.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/is_read_buffered.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/is_write_buffered.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/basic_endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/detail/endpoint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/detail/impl/endpoint.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/connect_pair.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/datagram_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/seq_packet_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/local/stream_protocol.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/packaged_task.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/future.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/future
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ppltasks.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/pplwin.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/pplinterface.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ppltaskscheduler.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/crtdefs.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/pplcancellation_token.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/placeholders.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/posix/basic_descriptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/posix/basic_stream_descriptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/posix/descriptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/posix/descriptor_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/posix/stream_descriptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/prepend.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/prepend.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/random_access_file.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/read_at.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/read_at.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/read_until.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/regex_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/read_until.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/readable_pipe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/redirect_error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/redirect_error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/require_concept.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/require_concept_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/require_concept_free.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/traits/static_require_concept.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/serial_port.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/signal_set.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/static_thread_pool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/thread_pool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/thread_pool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/blocking_executor_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/thread_pool.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/strand.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/strand_executor_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/strand_executor_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/strand_executor_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/stream_file.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/streambuf.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/system_timer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/time_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/use_future.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/use_future.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/version.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/basic_object_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_object_handle_service.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/impl/win_object_handle_service.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/basic_overlapped_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/basic_random_access_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/basic_stream_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/object_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/overlapped_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/overlapped_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_overlapped_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/win_iocp_overlapped_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/random_access_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/windows/stream_handle.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/writable_pipe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/write_at.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/impl/write_at.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/push_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/asio/detail/pop_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/device/mapped_file.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/close.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/categories.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/flush.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/dispatch.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/select.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/void.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/bool_trait_def.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/template_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/control/expr_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/wide_streams.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/is_iterator_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/select_by_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/iteration/local.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/slot/slot.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/slot/detail/def.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/iteration/detail/local.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/wrap_unwrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/enable_if_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/traits_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/streambuf.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/operations_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/adapter/non_blocking_adapter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/ios.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/char_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/char_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/seek.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/integer_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/positioning.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/codecvt.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/fpos.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/write.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/disable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/enable_warnings.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/concepts.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/default_arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/auto_link.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/config/dyn_link.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/iostreams/detail/path.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/shared_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/shared_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/shared_count.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/bad_weak_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_counted_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_has_gcc_intrinsics.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_has_sync_intrinsics.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/deprecated_macros.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_counted_base_std_atomic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_typeinfo_.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_counted_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_convertible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_noexcept.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/spinlock_pool.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/spinlock.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/spinlock_std_atomic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/yield_k.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/yield_primitives.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/sp_thread_pause.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/sp_thread_yield.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/sp_win32_sleep.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/sp_thread_sleep.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/local_sp_deleter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/local_counted_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/abi_prefix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/abi/msvc_prefix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/abi_suffix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/config/abi/msvc_suffix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/stack.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/allocator_access.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/pointer_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/span.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/data.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/optional.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/use_default.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/limits/vector.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/parameters.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/arg_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/void.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/yesno.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/result_of0.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/use_default_tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/result_of.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/type_identity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/detail/result_of_variadic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/default.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_list_v.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_is_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_is_value_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_append.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_count.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_plus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/preprocessor/nullptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/is_maybe.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/tagged_argument_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/parameter_requirements.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/parameter_requirements.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/augment_predicate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/keyword_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_scalar.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_member_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/lambda_tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/has_apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/has_apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/msvc_never_true.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/lambda.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bind_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/bind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/bind_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/placeholders.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/na_assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/arity_spec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/arg_typedef.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/placeholders.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/next.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/next_prior.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/common_name_wknd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/protect.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/bind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/full_lambda.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bind_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/quote.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/has_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/bcc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/quote.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/template_arity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/template_arity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/full_lambda.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/has_nested_template_fn.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/iterator_tags.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/begin_end_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/value_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/is_placeholder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/bind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/algorithm.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/set.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/function.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_min_element.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_void.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_copy_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_remove_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_map_find.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/detail/mp_with_index.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/integer_sequence.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/has_key_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/count_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/key_type_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/value_type_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/at_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/order_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/find.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/find_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/find_if_pred.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/iter_apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/apply_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/placeholders.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/deref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/msvc_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/is_msvc_eti_arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/iter_fold_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/begin_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/begin_end_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/sequence_tag_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/has_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/traits_lambda_spec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/sequence_tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/has_tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/always.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessor/default_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/pair.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/msvc_eti_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/iter_fold_if_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/iter_fold_if_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/config/forwarding.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/same_as.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/lambda_spec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/distance.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/distance_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/iter_fold.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/O1_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/O1_size_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/O1_size_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/long.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/long_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/integral_wrapper.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/has_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/iter_fold_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/iter_fold_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/iterator_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/make_arg_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/unmatched_argument.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/tag_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/deduced.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/required.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/is_named_argument.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/template_keyword.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/is_tagged_argument.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_base_of.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/insert_tagged.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/set.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/deduce_tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/tag_deduced.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/make_parameter_spec_items.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/make_deduced_items.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/deduced_item.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/satisfies.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/as_parameter_requirements.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/predicate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/always_true_predicate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/make_items.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/item.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/tag_keyword_arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/unwrap_cv_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/tagged_argument.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/aux_/pack/tag_template_keyword_arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/template_keyword.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/atomic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/copy_payload.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/freelist.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/align_up.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/align_up.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/not_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/aligned_allocator_adaptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/is_alignment_constant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/integral_constant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/max_align.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/max_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/alignment_of.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/element_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/alignment_of_forward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/alignment_of_msvc.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/min_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/align.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/align_cxx11.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/aligned_allocator_adaptor_forward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/parameter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/aligned_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/add_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/max_objects.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/detail/throw_exception.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/align/aligned_allocator_forward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/prefix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/language.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/language/stdc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/language/stdcpp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/language/objc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/language/cuda.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/alpha.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/arm.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/blackfin.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/convex.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/e2k.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/ia64.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/loongarch.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/m68k.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/mips.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/parisc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/ppc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/ptx.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/pyramid.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/riscv.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/rs6k.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/sparc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/superh.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/sys370.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/sys390.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86/32.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86/32.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86/64.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86/32.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86/64.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/x86/64.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture/z.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/borland.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/clang.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/comeau.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/compaq.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/diab.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/digitalmars.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/dignus.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/edg.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/ekopath.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/gcc_xml.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/gcc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/clang.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/greenhills.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/hp_acc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/iar.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/ibm.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/intel.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/kai.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/llvm.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/clang.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/metaware.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/metrowerks.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/microtec.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/mpw.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/nvcc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/palm.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/pgi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/sgi_mipspro.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/sunpro.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/tendra.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/visualc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/clang.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/detail/comp_detected.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/compiler/watcom.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/_prefix.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/detail/_cassert.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/cloudabi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/gnu.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/uc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/vms.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/zos.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/_prefix.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/detail/_exception.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/cxx.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/dinkumware.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/libcomo.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/modena.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/msl.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/msvc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/roguewave.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/sgi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/stdcpp3.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/stlport.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/std/vacpp.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/aix.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/amigaos.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/beos.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/macos.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/ios.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/cygwin.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/haiku.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/hpux.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/irix.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/ios.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/linux.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/macos.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/os400.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/qnxnto.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/solaris.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/unix.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/vms.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/windows.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/other.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/other/endian.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/library/c/gnu.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/macos.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/bsdi.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/dragonfly.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/free.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/open.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/os/bsd/net.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform/android.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/other/wordsize.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/architecture.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/make.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/other/workaround.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/platform.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/x86.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/x86/versions.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/x86_amd.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/x86_amd/versions.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/arm.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/arm/versions.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/ppc.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/hardware/simd/ppc/versions.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/predef/version.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/policies.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/parameter/binding.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/tagged_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/tagged_ptr_ptrcompression.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/detail/uses_optional.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/lockfree/lockfree_forward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/variant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_index.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_index/stl_type_index.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_index/type_index_facade.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/hash_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/variant_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/blank_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/detail/auto_rec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/enum_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/enum_shifted_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/preprocessor/repetition/enum_shifted_params.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/substitute_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/template_arity.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/backup_holder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/enable_recursive_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/forced_return.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/initializer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/call_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/detail/call_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/detail/reference_content.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_nothrow_copy.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_trivial_copy.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_pod.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/recursive_wrapper_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_constructible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_destructible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_default_constructible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_nothrow_move_constructible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/move.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/make_variant_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/limits/list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/list20.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/list10.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/list0.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/push_front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/push_front_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/item.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/tag.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/pop_front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/pop_front_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/push_back.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/push_back_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/front_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/clear.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/clear_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/O1_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/size_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/empty_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/begin_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/preprocessed/plain/list10.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/list/aux_/preprocessed/plain/list20.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/over_sequence.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/visitation_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/cast_storage.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/hash_variant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/static_visitor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/apply_visitor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/apply_visitor_unary.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/advance.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/advance_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/less.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/comparison_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/numeric_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/numeric_cast.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/numeric_cast_utils.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/less.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/negate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/integral_c.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/integral_c_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/integral_wrapper.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/advance_forward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/advance_forward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/advance_backward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/prior.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/advance_backward.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/size_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/declval.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/copy_cv_ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/copy_cv.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/copy_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_lvalue_reference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/has_result_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/apply_visitor_binary.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/apply_visitor_delayed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/functional/hash_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/std_hash.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/blank.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/detail/templated_streams.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_stateless.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_trivial_constructor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_trivial_destructor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/integer/common_factor_ct.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/integer_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/cstdint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/aligned_storage.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/alignment_of.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/type_with_alignment.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_nothrow_constructor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_nothrow_move_assignable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_trivial_move_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_nothrow_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_trivial_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_assignable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/enable_if.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/empty.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/empty_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/fold.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/fold_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/fold_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/front_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/insert_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/insert_range_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/insert_range_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/placeholders.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/insert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/insert_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/insert_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/reverse_fold.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/arg.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/reverse_fold_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/reverse_fold_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/clear.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/clear_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/push_front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/push_front_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/joint_view.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/joint_iter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/plus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/arithmetic_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/largest_int.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/numeric_op.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply_wrap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/include_preprocessed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessed/plain/plus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/iter_push_front.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/same_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/is_sequence.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/max_element.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/size_t.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/size_t_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/integral_wrapper.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/sizeof.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/transform.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/pair_view.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/iterator_category.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/min_max.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/inserter_algorithm.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/back_inserter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/push_back.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/push_back_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/inserter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/front_inserter.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/variant_io.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/recursive_variant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/enable_recursive.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/substitute.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/aux_/preprocessor/repeat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/recursive_wrapper.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/equal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/bind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mpl/apply.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/get.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/detail/element_index.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/visitor_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant/bad_visit.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/filesystem
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/fmt/color.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/fmt/format.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/fmt/base.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/iostream
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/map
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/xtree
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/mysql/mysql.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/mysql/mariadb_com.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/mysql/mariadb_version.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/mysql/ma_list.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/mysql/mariadb_ctype.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/mysql/mariadb_stmt.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/pugixml.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/pugiconfig.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/queue
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_ranges_to.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/random
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/__msvc_int128.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/set
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/unordered_set
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/valarray
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/lua.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/lua.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/luaconf.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/lualib.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/lauxlib.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/cacheinfo.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/status.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/ignore_unused.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/string_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/string_view.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/detail/is_same.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/string.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/status.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/status.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/gdb_printers.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/storage_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/pmr/polymorphic_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/meta_utils.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/meta_utils_core.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/addressof.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/cassert
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/utility_core.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/core.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/dispatch_uses_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/allocator_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/container_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/std_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/std_ns_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/std_ns_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/mpl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/mpl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/placement_new.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/is_pair.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/addressof.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/pointer_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/workaround.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/pointer_rebind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/pointer_element.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/has_member_function_callable_with.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/fwd_macros.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/has_member_function_callable_with.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/has_member_function_callable_with.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/uses_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/uses_allocator_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/variadic_templates_tools.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/new_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/throw_exception.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/pmr/memory_resource.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/pmr/global_resource.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/auto_link.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/shared_resource.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/default_resource.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/is_deallocate_trivial.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/kind.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/string_view.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/pilfer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/system/result.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/variant2/variant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/map.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/lambda.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/mp11/tuple.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/typeindex
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/object.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/object.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/set_pointer_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/digest.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/except.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/string_impl.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value_ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/impl/array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/object.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/value_ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/../database.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/pugicast.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/error.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/error.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/http.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/http.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/listener.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/error.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/fmt/core.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/listener.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/session.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/flat_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/flat_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/exchange.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/tcp_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/basic_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/stream_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/rate_policy.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/role.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/stream_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/static_const.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/stream_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/enable_shared_from_this.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/enable_shared_from_this.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/weak_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/basic_stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/async_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/async_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/filtering_cancellation_slot.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/work_guard.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/optional.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/invoke_swap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/launder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/bad_optional_access.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/conjunction.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/disjunction.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/decay.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_bounds.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_extent.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/none.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/none_t.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/optional_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_factory_support.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_aligned_storage.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_hash.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_utility.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_trivially_copyable_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_reference_spec.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_relops.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/optional/detail/optional_swap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/async_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffer_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/buffer_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffers_prefix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/buffers_prefix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/websocket/teardown.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/websocket/impl/teardown.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/bind_continuation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/remap_post_to_defer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/is_invocable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/make_shared.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/make_shared.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/make_shared_object.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/detail/sp_type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/make_shared_array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/default_allocator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/allocate_shared_array.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/alloc_construct.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/noinit_adaptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/core/first_scalar.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/message_generator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/message_generator_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/span.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/message.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/message_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/fields_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/fields.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/field.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/field.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/field.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/intrusive_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/link_mode.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/assert.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/list_hook.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/list_node.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/circular_list_algorithms.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/algo_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/pack_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/generic_hook.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/node_holder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/get_value_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/hook_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/parent_from_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/launder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/to_raw_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/is_stateful_value_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/function_detector.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/default_header_holder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/reverse_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/reverse_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/iterator_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/uncast.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/list_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/std_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/std_ns_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/std_ns_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/iiterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/array_initializer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/placement_new.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/detail/force_ptr.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/exception_disposer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/equal_to_value.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/key_nodeptr_comp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/ebo_functor_holder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/tree_value_compare.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/simple_disposers.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/size_holder.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/algorithm.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/value_functors.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/set.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/rbtree.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/minimal_less_equal_header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/minimal_pair_header.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/set_hook.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/rbtree_node.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/rbtree_algorithms.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/bstree_algorithms.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/bstree_algorithms_base.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/math.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/pointer_plus_bits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/tree_node.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/bstree.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/bs_set_hook.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/tree_iterator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/empty_node_checker.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/node_cloner_disposer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/parent_from_member.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_begin.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/move/adl_move_swap.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/intrusive/detail/config_end.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/fields.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffers_cat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/tuple.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/buffers_cat.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/variant.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/buffers_ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/clamp.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/static_string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/temporary_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/impl/temporary_buffer.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/temporary_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/static_string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/static_string/static_string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/static_string/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/hash.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/is_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/is_contiguous_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/is_unordered_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/is_described_class.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/bases.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/modifiers.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/detail/config.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/detail/void_t.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/members.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/detail/cx_streq.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/detail/hash_integral.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/detail/hash_mix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/detail/hash_tuple_like.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/is_tuple_like.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/detail/hash_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/container_hash/detail/mulx.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/complex
+C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/include/ymath.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/string_view.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/io/ostream_put.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/io/detail/buffer_fill.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/io/detail/ostream_guard.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/utility/string_view_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/verb.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/verb.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/verb.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/rfc7230.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/rfc7230.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/rfc7230.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/basic_parsed_list.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/rfc7230.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/rfc7230.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/rfc7230.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/chunk_encode.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/parser_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/chunk_encode.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/chunk_encode.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/varint.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/error.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/error.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/fields.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/fields.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/message.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/serializer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/serializer_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffers_suffix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/buffers_suffix.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/add_cv.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/common_type.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/mp_defer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/extent.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/floating_point_promotion.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_bit_and.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_bit_and_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_bit_or.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_bit_or_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_bit_xor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_bit_xor_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_complement.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_dereference.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_divides.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_divides_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_equal_to.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_greater.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_greater_equal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_left_shift.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_left_shift_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_less.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_less_equal.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_logical_and.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_logical_not.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_logical_or.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_modulus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_modulus_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_multiplies.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_multiplies_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_negate.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_new_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_not_equal_to.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_nothrow_destructor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_post_decrement.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_postfix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_post_increment.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_postfix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_pre_decrement.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_pre_increment.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_right_shift.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_right_shift_assign.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_binary_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_trivial_move_constructor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_unary_minus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_unary_plus.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/has_prefix_operator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/has_virtual_destructor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_complex.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_compound.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_fundamental.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_copy_assignable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_noncopyable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_copy_constructible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_final.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_float.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_list_constructible.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_member_object_pointer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_nothrow_swappable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/detail/is_swappable_cxx_11.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_object.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_polymorphic.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_scoped_enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/negation.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_swappable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_trivially_copyable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_union.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_unscoped_enum.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/is_virtual_base_of.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/make_signed.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/rank.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_all_extents.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_cv_ref.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/remove_volatile.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/integral_promotion.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/type_traits/promote.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/serializer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/message_generator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/message_generator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/smart_ptr/make_unique.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffers_generator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/buffers_generator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffers_generator.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/string_body.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/string_body_fwd.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/buffers_range.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/buffers_range_adaptor.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/fmt/core.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/login.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/login.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/../base64.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/../game.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/groups.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/map.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/house.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/const.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/container.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/item.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/items.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/enums.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/itemloader.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/fileloader.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/position.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/luascript.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/thing.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/tile.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/tools.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/spawn.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/spectators.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/town.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/mounts.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/player.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/creature.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/creatureevent.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/baseevents.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/depotchest.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/depotlocker.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/guild.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/inbox.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/protocolgame.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/chat.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/protocol.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/connection.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/networkmessage.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/xtea.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/zlib.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/zconf.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/tasks.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/thread_holder_base.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/vocation.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/configmanager.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/wildcardtree.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/router.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/router.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/monotonic_resource.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/parse.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/parse_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/serialize.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/serialize_options.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/serialize.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/serializer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/format.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/stream.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/writer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/literals.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/stack.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/detail/impl/stack.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/conversion.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/conversion.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/enumerators.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/json/impl/serializer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/describe/enum_to_string.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/src/http/session.cpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/basic_parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/basic_parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/char_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/basic_parser.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/detail/basic_parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/basic_parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/make_unique.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/basic_parser.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/basic_parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/parser.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/detail/impl/read.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/flat_static_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/flat_static_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/flat_static_buffer.ipp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/flat_static_buffer.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/read_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/impl/read_size.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/assert.hpp
+C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/ucrt/assert.h
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/write.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/http/impl/write.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/boost/beast/core/make_printable.hpp
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed/x64-windows/include/fmt/core.h

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+    <!--
+	// Raid System by 5mok3
+	// DO NOT CHANGE INTERVAL UNLESS YOU ARE SURE WHAT YOU ARE DOING!!
+	-->
+
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="Gaz'haragoth vai quebrar seus sonhos em uma barragem de pesadelos!" />
+  <announce delay="50000" type="Event" message="Gaz'haragoth apareceu na prisão corrao!!!" />
+  <announce delay="60000" type="Event" message="O mundo tremera ao poder do Gaz'Hagaroth" />
+  <!--Single Spawns-->
+  <singlespawn delay="60000" name="Gaz'Haragoth" x="33537" y="32382" z="12" />
+</raid>

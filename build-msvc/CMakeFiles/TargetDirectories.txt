@@ -1,0 +1,11 @@
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/tfs.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/check_git.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/edit_cache.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/rebuild_cache.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/CMakeFiles/tfslib.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/CMakeFiles/format.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/CMakeFiles/edit_cache.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/CMakeFiles/rebuild_cache.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/http/CMakeFiles/http.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/http/CMakeFiles/edit_cache.dir
+C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/src/http/CMakeFiles/rebuild_cache.dir

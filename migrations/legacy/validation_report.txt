@@ -1,0 +1,47 @@
+Migration validation report
+Date: 2026-03-27
+
+Resumen rápido
+- accounts: 4
+- players: 7
+- houses: 1066
+- guilds: 0
+- items.csv: 32030 filas
+- monsters.csv: 1165 entradas
+- npcs.csv: 9 entradas
+- maps: 3 (forgotten.otbm + spawn + house)
+- spawn entries: 661
+
+Observaciones relevantes
+- 5 de 7 jugadores tienen `lastip` nulo o 0. IDs con IP no nula: 2 (106.236.84.177), 4 (15.53.202.177).
+- El campo `players.conditions` contiene un blob binario solo en el jugador id=4 (longitud 23). Requiere decodificación con la lógica del servidor.
+- La heurística para `premium_ends_at` se aplicó en las migraciones; revisar cuentas con fechas cercanas o inconsistentes.
+- `data/items/items.xml` usa encoding ISO-8859-1; el script `generate_items_csv.py` ha generado `items.csv` en UTF-8 correctamente.
+- Se generaron CSVs y un volcado SQL de respaldo (ver lista abajo).
+
+Archivos generados / importantes
+- migrations/legacy/items.csv
+- migrations/legacy/monsters.csv
+- migrations/legacy/npcs.csv
+- migrations/legacy/maps.csv
+- migrations/legacy/maps_spawn_monsters.csv
+- migrations/legacy/players_sample.csv
+- migrations/legacy/houses_sample.csv
+- migrations/legacy/players_full.csv
+- migrations/legacy/players_conditions_sample.csv
+- migrations/legacy/players_ip_counts.csv
+- migrations/legacy/accounts.csv
+- migrations/legacy/forgottenserver_subset.sql
+
+Problemas pendientes y recomendaciones
+1. Decodificar `players.conditions`: es formato binario interno del servidor — usar la lógica C++ del proyecto para exportarlo legible (posible punto: `src/conditions.cpp` / `luascript.cpp` o funciones de serialización).
+2. IPs: investigar por qué la mayoría de jugadores tienen IP 0; podrían provenir de dumps antiguos o anonimización.
+3. Revisar `premium_ends_at` manualmente para cuentas con valores sospechosos.
+4. Revisar correspondencia entre `items.csv` y `items.otb` si se necesita validación de tipos/IDs.
+5. Docker: quitar la línea `version:` en `docker-compose.yml` (es obsoleta) y mantener el dump legado fuera de `/docker-entrypoint-initdb.d/` para evitar ejecuciones accidentales (ya montado en `/srv/servidor_from_TFS.sql`).
+
+Siguiente paso propuesto
+- Preparar commit con `migrations/legacy/*` y cambios Docker y abrir PR.
+- Alternativa: actualizar Docker primero (limpieza `docker-compose.yml`, documentación), luego commit/PR.
+
+Si quieres, procedo a preparar el commit y abrir el PR ahora, o primero aplico los cambios sugeridos en Docker.

@@ -1,0 +1,564 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      The system is: Windows - 10.0.26200 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.44.35225 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.44.35225.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/3.31.6-msvc6/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1288 (message)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:43 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-9naurr"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-9naurr"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_INSTALLED_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-9naurr'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_b425d\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_b425d.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_b425d.dir\\build
+        Building CXX object CMakeFiles/cmTC_b425d.dir/CMakeCXXCompilerABI.cpp.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_b425d.dir\\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-9naurr --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm923F.tmp
+        CMakeCXXCompilerABI.cpp
+        Linking CXX executable cmTC_b425d.exe
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b425d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b425d.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm93E6.tmp
+        Visual Studio Incremental Link with embedded manifests
+        Create CMakeFiles\\cmTC_b425d.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_b425d.dir/embed.manifest
+        RC Pass 1:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_b425d.dir/manifest.res CMakeFiles\\cmTC_b425d.dir/manifest.rc
+        LINK Pass 1:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b425d.dir\\objects1.rsp /out:cmTC_b425d.exe /implib:cmTC_b425d.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-9naurr\\cmTC_b425d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b425d.dir/intermediate.manifest CMakeFiles\\cmTC_b425d.dir/manifest.res
+        MT:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_b425d.dir/intermediate.manifest /out:CMakeFiles\\cmTC_b425d.dir/embed.manifest /notify_update
+        RC Pass 2:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_b425d.dir/manifest.res CMakeFiles\\cmTC_b425d.dir/manifest.rc
+        FINAL LINK:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b425d.dir\\objects1.rsp /out:cmTC_b425d.exe /implib:cmTC_b425d.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-9naurr\\cmTC_b425d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b425d.dir/intermediate.manifest CMakeFiles\\cmTC_b425d.dir/manifest.res
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/PROGRA~2/MICROS~2/2022/BUILDT~1/VC/Tools/MSVC/1444~1.352/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/PROGRA~2/MICROS~2/2022/BUILDT~1/VC/Tools/MSVC/1444~1.352/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.44.35225.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCXXSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:99 (CHECK_CXX_SOURCE_COMPILES)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:908 (_find_package)"
+      - "CMakeLists.txt:89 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-d1laot"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-d1laot"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/cmake"
+      VCPKG_INSTALLED_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-d1laot'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_e8f25\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_e8f25.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_e8f25.dir\\build
+        Building CXX object CMakeFiles/cmTC_e8f25.dir/src.cxx.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_e8f25.dir\\src.cxx.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-d1laot --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9637.tmp
+        src.cxx
+        C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-d1laot\\src.cxx(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory
+        NMAKE : fatal error U1077: '"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_e8f25.dir\\src.cxx.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-d1laot --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9637.tmp' : c¾digo devuelto '0x2'
+        Stop.
+        NMAKE : fatal error U1077: '"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_e8f25.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_e8f25.dir\\build' : c¾digo devuelto '0x2'
+        Stop.
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake:78 (try_compile)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:908 (_find_package)"
+      - "CMakeLists.txt:89 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-7bn14y"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-7bn14y"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/cmake"
+      VCPKG_INSTALLED_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-7bn14y'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_495cc\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_495cc.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_495cc.dir\\build
+        Building CXX object CMakeFiles/cmTC_495cc.dir/CheckFunctionExists.cxx.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_495cc.dir\\CheckFunctionExists.cxx.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-7bn14y --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9731.tmp
+        CheckFunctionExists.cxx
+        Linking CXX executable cmTC_495cc.exe
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_495cc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_495cc.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm979F.tmp
+        Visual Studio Incremental Link with embedded manifests
+        Create CMakeFiles\\cmTC_495cc.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_495cc.dir/embed.manifest
+        RC Pass 1:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_495cc.dir/manifest.res CMakeFiles\\cmTC_495cc.dir/manifest.rc
+        LINK Pass 1:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_495cc.dir\\objects1.rsp /out:cmTC_495cc.exe /implib:cmTC_495cc.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-7bn14y\\cmTC_495cc.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_495cc.dir/intermediate.manifest CMakeFiles\\cmTC_495cc.dir/manifest.res
+        LINK Pass 1: command "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_495cc.dir\\objects1.rsp /out:cmTC_495cc.exe /implib:cmTC_495cc.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-7bn14y\\cmTC_495cc.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_495cc.dir/intermediate.manifest CMakeFiles\\cmTC_495cc.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: no se puede abrir el archivo 'pthreads.lib'
+        NMAKE : fatal error U1077: '"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_495cc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_495cc.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm979F.tmp' : c¾digo devuelto '0xffffffff'
+        Stop.
+        NMAKE : fatal error U1077: '"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_495cc.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_495cc.dir\\build' : c¾digo devuelto '0x2'
+        Stop.
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake:78 (try_compile)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:908 (_find_package)"
+      - "CMakeLists.txt:89 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-6q5uy8"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-6q5uy8"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/cmake"
+      VCPKG_INSTALLED_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/vcpkg"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-6q5uy8'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_b608a\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_b608a.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_b608a.dir\\build
+        Building CXX object CMakeFiles/cmTC_b608a.dir/CheckFunctionExists.cxx.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_b608a.dir\\CheckFunctionExists.cxx.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uy8 --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9898.tmp
+        CheckFunctionExists.cxx
+        Linking CXX executable cmTC_b608a.exe
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b608a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b608a.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9907.tmp
+        Visual Studio Incremental Link with embedded manifests
+        Create CMakeFiles\\cmTC_b608a.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_b608a.dir/embed.manifest
+        RC Pass 1:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_b608a.dir/manifest.res CMakeFiles\\cmTC_b608a.dir/manifest.rc
+        LINK Pass 1:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b608a.dir\\objects1.rsp /out:cmTC_b608a.exe /implib:cmTC_b608a.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uy8\\cmTC_b608a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b608a.dir/intermediate.manifest CMakeFiles\\cmTC_b608a.dir/manifest.res
+        LINK Pass 1: command "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b608a.dir\\objects1.rsp /out:cmTC_b608a.exe /implib:cmTC_b608a.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-6q5uy8\\cmTC_b608a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_b608a.dir/intermediate.manifest CMakeFiles\\cmTC_b608a.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: no se puede abrir el archivo 'pthread.lib'
+        NMAKE : fatal error U1077: '"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b608a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_b608a.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9907.tmp' : c¾digo devuelto '0xffffffff'
+        Stop.
+        NMAKE : fatal error U1077: '"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_b608a.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_b608a.dir\\build' : c¾digo devuelto '0x2'
+        Stop.
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindBZip2.cmake:100 (CHECK_SYMBOL_EXISTS)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:908 (_find_package)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake:76 (find_package)"
+      - "build-msvc/vcpkg_installed/x64-windows/share/boost_iostreams/boost_iostreams-config.cmake:61 (find_dependency)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:908 (_find_package)"
+      - "build-msvc/vcpkg_installed/x64-windows/share/boost/BoostConfig.cmake:67 (find_package)"
+      - "build-msvc/vcpkg_installed/x64-windows/share/boost/BoostConfig.cmake:128 (boostcfg_find_component)"
+      - "build-msvc/vcpkg_installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake:3 (_find_package)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:862 (include)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/FindBoost.cmake:610 (find_package)"
+      - "build-msvc/vcpkg_installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake:3 (_find_package)"
+      - "vcpkg/scripts/buildsystems/vcpkg.cmake:862 (include)"
+      - "CMakeLists.txt:110 (find_package)"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-lwr30c"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-lwr30c"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/cmake"
+      VCPKG_INSTALLED_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/vcpkg"
+    buildResult:
+      variable: "BZIP2_NEED_PREFIX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-lwr30c'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_e91f4\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_e91f4.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_e91f4.dir\\build
+        Building CXX object CMakeFiles/cmTC_e91f4.dir/CheckSymbolExists.cxx.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_e91f4.dir\\CheckSymbolExists.cxx.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-lwr30c --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9B86.tmp
+        CheckSymbolExists.cxx
+        Linking CXX executable cmTC_e91f4.exe
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_e91f4.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_e91f4.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9C14.tmp
+        Visual Studio Incremental Link with embedded manifests
+        Create CMakeFiles\\cmTC_e91f4.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_e91f4.dir/embed.manifest
+        RC Pass 1:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_e91f4.dir/manifest.res CMakeFiles\\cmTC_e91f4.dir/manifest.rc
+        LINK Pass 1:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_e91f4.dir\\objects1.rsp /out:cmTC_e91f4.exe /implib:cmTC_e91f4.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-lwr30c\\cmTC_e91f4.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\vcpkg_installed\\x64-windows\\debug\\lib\\bz2d.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_e91f4.dir/intermediate.manifest CMakeFiles\\cmTC_e91f4.dir/manifest.res
+        MT:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_e91f4.dir/intermediate.manifest /out:CMakeFiles\\cmTC_e91f4.dir/embed.manifest /notify_update
+        RC Pass 2:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_e91f4.dir/manifest.res CMakeFiles\\cmTC_e91f4.dir/manifest.rc
+        FINAL LINK:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_e91f4.dir\\objects1.rsp /out:cmTC_e91f4.exe /implib:cmTC_e91f4.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-lwr30c\\cmTC_e91f4.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\vcpkg_installed\\x64-windows\\debug\\lib\\bz2d.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_e91f4.dir/intermediate.manifest CMakeFiles\\cmTC_e91f4.dir/manifest.res
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIPOSupported.cmake:138 (try_compile)"
+      - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIPOSupported.cmake:261 (_ipo_run_language_check)"
+      - "CMakeLists.txt:131 (check_ipo_supported)"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/_CMakeLTOTest-CXX/src"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/_CMakeLTOTest-CXX/bin"
+    buildResult:
+      variable: "_IPO_LANGUAGE_CHECK_RESULT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/_CMakeLTOTest-CXX/bin'
+        
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -SC:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src -BC:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin --check-build-system CMakeFiles\\Makefile.cmake 0
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_progress_start C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\\\CMakeFiles\\progress.marks
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\Makefile2 /nologo -L                  all
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\foo.dir\\build.make /nologo -L                  CMakeFiles\\foo.dir\\depend
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_depends "NMake Makefiles" C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles\\foo.dir\\DependInfo.cmake
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\foo.dir\\build.make /nologo -L                  CMakeFiles\\foo.dir\\build
+        [ 25%] Building CXX object CMakeFiles/foo.dir/foo.cpp.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\foo.dir\\foo.cpp.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nm9F8E.tmp
+        Compilador de optimizaci├│n de C/C++ de Microsoft (R) versi├│n 19.44.35225 para x64
+        (C) Microsoft Corporation. Todos los derechos reservados.
+        
+        cl   /TP   /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /GL /showIncludes /FoCMakeFiles\\foo.dir\\foo.cpp.obj /FdCMakeFiles\\foo.dir\\foo.pdb /FS -c C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src\\foo.cpp
+        
+        foo.cpp
+        [ 50%] Linking CXX static library foo.lib
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -P CMakeFiles\\foo.dir\\cmake_clean_target.cmake
+        	C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\lib.exe  /LTCG /machine:x64 /out:foo.lib @CMakeFiles\\foo.dir\\objects1.rsp
+        Microsoft (R) Library Manager Version 14.44.35225.0
+        Copyright (C) Microsoft Corporation.  All rights reserved.
+        
+        CMakeFiles/foo.dir/foo.cpp.obj 
+        [ 50%] Built target foo
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\boo.dir\\build.make /nologo -L                  CMakeFiles\\boo.dir\\depend
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_depends "NMake Makefiles" C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles\\boo.dir\\DependInfo.cmake
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\boo.dir\\build.make /nologo -L                  CMakeFiles\\boo.dir\\build
+        [ 75%] Building CXX object CMakeFiles/boo.dir/main.cpp.obj
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\boo.dir\\main.cpp.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmA0C6.tmp
+        Compilador de optimizaci├│n de C/C++ de Microsoft (R) versi├│n 19.44.35225 para x64
+        (C) Microsoft Corporation. Todos los derechos reservados.
+        
+        cl   /TP   /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /GL /showIncludes /FoCMakeFiles\\boo.dir\\main.cpp.obj /FdCMakeFiles\\boo.dir\\ /FS -c C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src\\main.cpp
+        
+        main.cpp
+        [100%] Linking CXX executable boo.exe
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\boo.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe  @CMakeFiles\\boo.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmA144.tmp
+        Visual Studio Non-Incremental Link
+        LINK:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe @CMakeFiles\\boo.dir\\objects1.rsp /out:boo.exe /implib:boo.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\boo.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console /INCREMENTAL:NO /LTCG foo.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST:EMBED,ID=1
+        Microsoft (R) Incremental Linker Version 14.44.35225.0
+        Copyright (C) Microsoft Corporation.  All rights reserved.
+        
+        CMakeFiles/boo.dir/main.cpp.obj 
+        Generando código
+        Generación de código finalizada
+        [100%] Built target boo
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E cmake_progress_start C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles 0
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      The system is: Windows - 10.0.26200 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe 
+      Build flags: /DWIN32;/D_WINDOWS;/GR;/EHsc
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.44.35225 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.44.35225.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/3.27.6/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1155 (message)"
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:43 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:43 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-zk38ii"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-zk38ii"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_INSTALLED_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/vcpkg_installed"
+      VCPKG_PREFER_SYSTEM_LIBS: "OFF"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/CMakeScratch/TryCompile-zk38ii'
+        
+        Run Build Command(s): C:/Users/gmast/Documents/GitHub/forgottenserver-master/.tools/cmake-3.27.6-windows-x86_64/bin/cmake.exe -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_09cab\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\cmTC_09cab.dir\\build.make /nologo -L                  CMakeFiles\\cmTC_09cab.dir\\build
+        Building CXX object CMakeFiles/cmTC_09cab.dir/CMakeCXXCompilerABI.cpp.obj
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_09cab.dir\\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-zk38ii --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmE044.tmp
+        CMakeCXXCompilerABI.cpp
+        Linking CXX executable cmTC_09cab.exe
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_09cab.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_09cab.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmE1BC.tmp
+        Visual Studio Incremental Link with embedded manifests
+        Create CMakeFiles\\cmTC_09cab.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_09cab.dir/embed.manifest
+        RC Pass 1:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_09cab.dir/manifest.res CMakeFiles\\cmTC_09cab.dir/manifest.rc
+        LINK Pass 1:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_09cab.dir\\objects1.rsp /out:cmTC_09cab.exe /implib:cmTC_09cab.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-zk38ii\\cmTC_09cab.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_09cab.dir/intermediate.manifest CMakeFiles\\cmTC_09cab.dir/manifest.res
+        MT:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe /nologo /manifest CMakeFiles\\cmTC_09cab.dir/intermediate.manifest /out:CMakeFiles\\cmTC_09cab.dir/embed.manifest /notify_update
+        RC Pass 2:
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe /fo CMakeFiles\\cmTC_09cab.dir/manifest.res CMakeFiles\\cmTC_09cab.dir/manifest.rc
+        FINAL LINK:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe /nologo @CMakeFiles\\cmTC_09cab.dir\\objects1.rsp /out:cmTC_09cab.exe /implib:cmTC_09cab.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\CMakeScratch\\TryCompile-zk38ii\\cmTC_09cab.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_09cab.dir/intermediate.manifest CMakeFiles\\cmTC_09cab.dir/manifest.res
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CheckIPOSupported.cmake:138 (try_compile)"
+      - ".tools/cmake-3.27.6-windows-x86_64/share/cmake-3.27/Modules/CheckIPOSupported.cmake:266 (_ipo_run_language_check)"
+      - "CMakeLists.txt:131 (check_ipo_supported)"
+    directories:
+      source: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/_CMakeLTOTest-CXX/src"
+      binary: "C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/_CMakeLTOTest-CXX/bin"
+    buildResult:
+      variable: "_IPO_LANGUAGE_CHECK_RESULT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/gmast/Documents/GitHub/forgottenserver-master/build-msvc/CMakeFiles/_CMakeLTOTest-CXX/bin'
+        
+        Run Build Command(s): C:/Users/gmast/Documents/GitHub/forgottenserver-master/.tools/cmake-3.27.6-windows-x86_64/bin/cmake.exe -E env VERBOSE=1 nmake -f Makefile /nologo
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -SC:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src -BC:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin --check-build-system CMakeFiles\\Makefile.cmake 0
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_progress_start C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\\\CMakeFiles\\progress.marks
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\Makefile2 /nologo -L                  all
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\foo.dir\\build.make /nologo -L                  CMakeFiles\\foo.dir\\depend
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_depends "NMake Makefiles" C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles\\foo.dir\\DependInfo.cmake
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\foo.dir\\build.make /nologo -L                  CMakeFiles\\foo.dir\\build
+        [ 25%] Building CXX object CMakeFiles/foo.dir/foo.cpp.obj
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\\foo.dir\\foo.cpp.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmE4D7.tmp
+        Compilador de optimizaci├│n de C/C++ de Microsoft (R) versi├│n 19.44.35225 para x64
+        (C) Microsoft Corporation. Todos los derechos reservados.
+        
+        cl   /TP   /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /GL /showIncludes /FoCMakeFiles\\foo.dir\\foo.cpp.obj /FdCMakeFiles\\foo.dir\\foo.pdb /FS -c C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src\\foo.cpp
+        
+        foo.cpp
+        [ 50%] Linking CXX static library foo.lib
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -P CMakeFiles\\foo.dir\\cmake_clean_target.cmake
+        	C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\lib.exe  /LTCG /machine:x64 /out:foo.lib @CMakeFiles\\foo.dir\\objects1.rsp
+        Microsoft (R) Library Manager Version 14.44.35225.0
+        Copyright (C) Microsoft Corporation.  All rights reserved.
+        
+        CMakeFiles/foo.dir/foo.cpp.obj 
+        [ 50%] Built target foo
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\boo.dir\\build.make /nologo -L                  CMakeFiles\\boo.dir\\depend
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_depends "NMake Makefiles" C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles\\boo.dir\\DependInfo.cmake
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\nmake.exe"  -f CMakeFiles\\boo.dir\\build.make /nologo -L                  CMakeFiles\\boo.dir\\build
+        [ 75%] Building CXX object CMakeFiles/boo.dir/main.cpp.obj
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_cl_compile_depends --dep-file=CMakeFiles\\boo.dir\\main.cpp.obj.d --working-dir=C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin --filter-prefix="Nota: inclusi¾n del archivo: " -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmE5E1.tmp
+        Compilador de optimizaci├│n de C/C++ de Microsoft (R) versi├│n 19.44.35225 para x64
+        (C) Microsoft Corporation. Todos los derechos reservados.
+        
+        cl   /TP   /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi /GL /showIncludes /FoCMakeFiles\\boo.dir\\main.cpp.obj /FdCMakeFiles\\boo.dir\\ /FS -c C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\src\\main.cpp
+        
+        main.cpp
+        [100%] Linking CXX executable boo.exe
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\boo.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests -- C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe  @CMakeFiles\\boo.dir\\objects1.rsp @C:\\Users\\gmast\\AppData\\Local\\Temp\\nmE640.tmp
+        Visual Studio Non-Incremental Link
+        LINK:
+        C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\link.exe @CMakeFiles\\boo.dir\\objects1.rsp /out:boo.exe /implib:boo.lib /pdb:C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\boo.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console /INCREMENTAL:NO /LTCG foo.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST:EMBED,ID=1
+        Microsoft (R) Incremental Linker Version 14.44.35225.0
+        Copyright (C) Microsoft Corporation.  All rights reserved.
+        
+        CMakeFiles/boo.dir/main.cpp.obj 
+        Generando código
+        Generación de código finalizada
+        [100%] Built target boo
+        	C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\.tools\\cmake-3.27.6-windows-x86_64\\bin\\cmake.exe -E cmake_progress_start C:\\Users\\gmast\\Documents\\GitHub\\forgottenserver-master\\build-msvc\\CMakeFiles\\_CMakeLTOTest-CXX\\bin\\CMakeFiles 0
+        
+      exitCode: 0
+...
