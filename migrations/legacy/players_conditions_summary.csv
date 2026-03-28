@@ -1,0 +1,8 @@
+id,name,num_conditions,conditions_json
+2,Nadega Sample,0,[]
+3,Sorcerer Sample,0,[]
+4,Druid Sample,1,"[{""type_raw"": 1024, ""type"": [""CONDITION_INFIGHT""], ""id"": -1, ""ticks"": 60000, ""is_buff"": false, ""subid"": 0}]"
+5,Paladin Sample,0,[]
+6,Knight Sample,0,[]
+11,Mitsuig,0,[]
+12,Ocera Global,0,[]

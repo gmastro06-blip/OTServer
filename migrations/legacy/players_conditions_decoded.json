@@ -1,0 +1,48 @@
+[
+  {
+    "id": 2,
+    "name": "Nadega Sample",
+    "conditions": []
+  },
+  {
+    "id": 3,
+    "name": "Sorcerer Sample",
+    "conditions": []
+  },
+  {
+    "id": 4,
+    "name": "Druid Sample",
+    "conditions": [
+      {
+        "type_raw": 1024,
+        "type": [
+          "CONDITION_INFIGHT"
+        ],
+        "id": -1,
+        "ticks": 60000,
+        "is_buff": false,
+        "subid": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Paladin Sample",
+    "conditions": []
+  },
+  {
+    "id": 6,
+    "name": "Knight Sample",
+    "conditions": []
+  },
+  {
+    "id": 11,
+    "name": "Mitsuig",
+    "conditions": []
+  },
+  {
+    "id": 12,
+    "name": "Ocera Global",
+    "conditions": []
+  }
+]

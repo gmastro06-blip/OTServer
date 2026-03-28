@@ -1,0 +1,10 @@
+createItem: 25
+addEvent: 19
+registerEvent: 15
+doPlayerAddItem: 3
+registerCreatureEvent: 2
+doSendMagicEffect: 1
+getPlayerStorageValue: 1
+setPlayerStorageValue: 1
+doTeleportThing: 1
+doPlayerSendTextMessage: 1
