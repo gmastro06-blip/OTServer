@@ -431,9 +431,17 @@ function taming.onUse(player, item, fromPosition, target, toPosition, isHotkey)
 			target:remove()
 		elseif action.broke then
 			item:remove(1)
-		elseif action.destroyObject then
-			addEvent(Game.createItem, math.random(3) * 60 * 60 * 1000, target.itemid, 1, toPosition)
-			target:remove()
+			elseif action.destroyObject then
+				do
+					local __sched_itemid = target.itemid
+					local __sched_subtype = 1
+					local __sched_pos = toPosition
+					local __sched_delay = math.random(3) * 60 * 60 * 1000
+					addEvent(function()
+						Game.createItem(__sched_itemid, __sched_subtype, __sched_pos)
+					end, __sched_delay)
+				end
+				target:remove()
 		elseif action.removeTransformation then
 			target:removeCondition(CONDITION_OUTFIT)
 		end
