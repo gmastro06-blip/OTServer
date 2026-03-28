@@ -195,3 +195,7 @@ pip-log.txt
 ## TFS / OT
 #############
 config.lua
+#
+# Ignore Python compiled files and caches
+*.pyc
+__pycache__/
