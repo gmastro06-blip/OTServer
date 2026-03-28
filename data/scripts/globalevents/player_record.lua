@@ -1,7 +1,14 @@
 local event = GlobalEvent("PlayerRecord")
 
 function event.onRecord(current, old)
-	addEvent(Game.broadcastMessage, 150, "New record: " .. current .. " players are logged in.", MESSAGE_STATUS_DEFAULT)
+	do
+		local __sched_msg = "New record: " .. current .. " players are logged in."
+		local __sched_status = MESSAGE_STATUS_DEFAULT
+		local __sched_delay = 150
+		addEvent(function()
+			Game.broadcastMessage(__sched_msg, __sched_status)
+		end, __sched_delay)
+	end
 	return true
 end
 
